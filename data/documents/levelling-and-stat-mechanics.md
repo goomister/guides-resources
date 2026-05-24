@@ -2,11 +2,11 @@
 
 This article will explain the mathematics and mechanics of levelling up cats in battle cats. Some elementary algebra will be used to explain points, though conclusions in plain English will also be given. This will be of interest to you if you have ever had questions like:
 
-* How much HP/damage does a cat gain when I level it?
-* Why does Bahamut not gain as much power between Lv 30 and Lv 40 as other cats?
-* How do attack talent orbs work?
-* Is it worth levelling cats past 45 when it costs two catseyes?
-* Just how important are EoC treasures?
+- How much HP/damage does a cat gain when I level it?
+- Why does Bahamut not gain as much power between Lv 30 and Lv 40 as other cats?
+- How do attack talent orbs work?
+- Is it worth levelling cats past 45 when it costs two catseyes?
+- Just how important are EoC treasures?
 
 The results here are a combination of common knowledge, datamined information from the game’s code, and mathematical analysis. Information is believed to be correct as of October 17th, 2020, and based on BCEN 9.9.
 
@@ -16,7 +16,7 @@ The results here are a combination of common knowledge, datamined information fr
 
 Every form of every cat in the game has base stats; initial damage per hit and HP values. These are the stats a cat would have at Level 1, with no EoC treasures at all. Note that I said every form of every cat. These values can change from form to form of the same cat, and when a unit’s evolved/true form improves it stats, it is because these values change. For these purposes, different forms of the same cat are hence unrelated, and are as different to one another as unrelated cats.
 
-We will call these base stats ***D*** and ***H***, for damage and HP respectively.
+We will call these base stats **_D_** and **_H_**, for damage and HP respectively.
 
 When you obtain EoC treasures, or level up your cat, you are increasing its stats above these base values. The higher a cat’s base stats are, the more levelling/treasures increase them - it is a proportional increase. This is why it is more important to level up cats with large stats, rather than those with status effects but poor raw stats.
 
@@ -26,7 +26,7 @@ When you obtain EoC treasures, or level up your cat, you are increasing its stat
 
 First let us discuss how much EoC treasures increases stats. Legendary Cat Sword treasures increase damage, and Legendary Cat Shield treasures increases HP.
 
-A level 1 cat without treasures has *D* damage and *H* hp.
+A level 1 cat without treasures has _D_ damage and _H_ hp.
 
 For x% completion of Legendary Cat Sword, a level 1 cat will have `(1 + 1.5x / 300) × D` damage.
 
@@ -34,9 +34,9 @@ For x% completion of Legendary Cat Shield, a level 1 cat will have `(1 + 1.5x / 
 
 What this algebra means is the following:
 
-* At 100% treasure completion (all of chapter 1 superior treasures), cats will have 1.5*D* damage and 1.5*H* HP (+50% - one and an half times the stats)
-* At 200% treasure completion (all of chapter 1 & 2 superior treasures), cats will have 2*D* damage and 2*H* HP (+100% - double stats)
-* At 300% treasure completion (all of chapter 1, 2 & 3 superior treasures), cats will have 2.5*D* damage and 2.5*H* HP (+150% - two and a half times the stats)
+- At 100% treasure completion (all of chapter 1 superior treasures), cats will have 1.5*D* damage and 1.5*H* HP (+50% - one and an half times the stats)
+- At 200% treasure completion (all of chapter 1 & 2 superior treasures), cats will have 2*D* damage and 2*H* HP (+100% - double stats)
+- At 300% treasure completion (all of chapter 1, 2 & 3 superior treasures), cats will have 2.5*D* damage and 2.5*H* HP (+150% - two and a half times the stats)
 
 This is a significant difference and these are some of the most important treasures to get very early on in the game as a result. These extra stats continue to multiply your stats after levelling up too. At 200% treasure completion, a cat at any level will have double the HP and damage as it would without any treasures.
 
@@ -44,7 +44,7 @@ Note that Catbot (as well as sites like mygamatoto) show stats of cats with x = 
 
 ##### Example: Basic Cat
 
-A level 1, basic cat has base stats of *H* = 100 and *D* = 8. **What are its stats with full EoC 1
+A level 1, basic cat has base stats of _H_ = 100 and _D_ = 8. **What are its stats with full EoC 1
 treasures, full EoC 2 Legendary Cat Shield, but unactivated EoC 2 Legendary Cat Sword?**
 (Assume no EoC 3 treasure and remaining at level 1)
 
@@ -53,9 +53,10 @@ treasures, full EoC 2 Legendary Cat Shield, but unactivated EoC 2 Legendary Cat 
 ---
 
 At low levels, levelling up a cat once increases its stats by 20% of the base stats (+0.2). That is, without treasures for now:
-* Lv 1 : 1*D* damage, 1*H* HP
-* Lv 2 : 1.2*D* damage, 1.2*H* HP
-* Lv 3 : 1.4*D* damage, 1.4*H* HP
+
+- Lv 1 : 1*D* damage, 1*H* HP
+- Lv 2 : 1.2*D* damage, 1.2*H* HP
+- Lv 3 : 1.4*D* damage, 1.4*H* HP
 
 and so on.
 
@@ -63,9 +64,9 @@ This means that a Level 6 cat is twice as strong as a level 1 cat, and a level 1
 
 We will now assume full EoC treasures for all following discussion, so all stats are multiplied by 2.5. As a result, the 20% increase with each level is now a `2.5 × 20% = 50%` increase.
 
-* Lv 1 : 2.5*D* damage, 2.5*H* HP
-* Lv 2 : 3*D* damage, 3*H* HP
-* Lv 3 : 3.5*D* damage, 3.5*H* HP
+- Lv 1 : 2.5*D* damage, 2.5*H* HP
+- Lv 2 : 3*D* damage, 3*H* HP
+- Lv 3 : 3.5*D* damage, 3.5*H* HP
 
 and so on.
 
@@ -73,22 +74,22 @@ We still observe that a level 6 cat will be twice as strong as a level 1 cat, an
 
 A general formula for the stats of a cat at level L, would then be:
 
-Level *L* → `|2.5 + 0.5(L — 1)| × D` damage and `|2.5 + 0.5(L — 1)| × H` HP.
+Level _L_ → `|2.5 + 0.5(L — 1)| × D` damage and `|2.5 + 0.5(L — 1)| × H` HP.
 
 or, with some simplification:
 
-Level *L* → `(2 + L / 2) × D` damage and `(2 + L / 2) × H` HP.
+Level _L_ → `(2 + L / 2) × D` damage and `(2 + L / 2) × H` HP.
 
 That is, a Level 30 cat (with full treasures) would have `(2 + 30 / 2) = 17` times its base stats (level 1, no treasures). Level ups due to XP, due to + levels from dupes, and catseye level ups all increase L by one as usual.
 
 ##### Example: Kasa Jizo
 
-Kasa Jizo has *D* = 400 and *H* = 900. **What are its stats at Level 20 with full treasures?**
+Kasa Jizo has _D_ = 400 and _H_ = 900. **What are its stats at Level 20 with full treasures?**
 Check your answer with CatBot.
 
 ##### Example: Express Cat
 
-My Level 23 Express Cat hit the enemy base. From looking at the remaining HP, I can see it did 13,500 damage. **What is its base *D* value?**
+My Level 23 Express Cat hit the enemy base. From looking at the remaining HP, I can see it did 13,500 damage. **What is its base _D_ value?**
 
 ### Levelling Curves
 
@@ -96,51 +97,52 @@ My Level 23 Express Cat hit the enemy base. From looking at the remaining HP, I 
 
 This is not the end of the story, however. At higher levels, the amount of stats gained becomes smaller (or in one special case, higher!)
 
-For example, if we look at the damage Glorious Amaterasu (*D* = 1000) does at different levels, we observe the following:
+For example, if we look at the damage Glorious Amaterasu (_D_ = 1000) does at different levels, we observe the following:
 
-* Level 30 : 17000 (17*D*)
-* Level 40 : 22000 (22*D*)
-* Level 50 : 27000 (27*D*)
-* Level 60 : 32000 (32*D*)
-* Level 70 : 34500 (34.5*D*)
+- Level 30 : 17000 (17*D*)
+- Level 40 : 22000 (22*D*)
+- Level 50 : 27000 (27*D*)
+- Level 60 : 32000 (32*D*)
+- Level 70 : 34500 (34.5*D*)
 
-You may notice that the increase between 60-70 is half the size of the increase from 30-40, or 40-50, or 50-60. Yes, after a certain point, if you are lucky enough to have a +20 uber, Amaterasu starts to get less benefit from levels. However, this doesn’t just affect ubers, and can affect almost all cats to some extent, including many that you will realistically get to such levels. This is called a Levelling Curve.  
+You may notice that the increase between 60-70 is half the size of the increase from 30-40, or 40-50, or 50-60. Yes, after a certain point, if you are lucky enough to have a +20 uber, Amaterasu starts to get less benefit from levels. However, this doesn’t just affect ubers, and can affect almost all cats to some extent, including many that you will realistically get to such levels. This is called a Levelling Curve.
 
 There are three main types of Levelling Curves in the game:
+
 ##### Type A : Normal and Special Cats
 
-Gain normal increase (+0.5*D*/+0.5*H*) per level up to lv 60  
+Gain normal increase (+0.5*D*/+0.5*H*) per level up to lv 60
 then half thereafter (+0.25*D*/+0.25*H*)
 
 ##### Type B : Super Rares, Ubers and Legend Rares
 
-Gain normal increase (+0.5*D*/+0.5*H*) per level up to lv 60  
-then half (+0.25*D*/+0.25*H*) up until lv 80  
+Gain normal increase (+0.5*D*/+0.5*H*) per level up to lv 60
+then half (+0.25*D*/+0.25*H*) up until lv 80
 then a quarter thereafter (+0.125*D*/+0.125*H*)
 
 ##### Type C : Rares
 
-Gain normal increase (+0.5*D*/+0.5*H*) per level up to lv 70  
-then half (+0.25*D*/+0.25*H*) up until lv 90  
+Gain normal increase (+0.5*D*/+0.5*H*) per level up to lv 70
+then half (+0.25*D*/+0.25*H*) up until lv 90
 then a quarter thereafter (+0.125*D*/+0.125*H*)
 
 There are three exceptions to these rules.
 
 ##### Bahamut Cat
 
-Gain normal increase (+0.5*D*/+0.5*H*)) per level up to lv 30  
+Gain normal increase (+0.5*D*/+0.5*H*)) per level up to lv 30
 then half thereafter (+0.25*D*/+0.25*H*)
 
 ##### Crazed Cats
 
-Gain normal increase (+0.5*D*/+0.5*H*) per level up to lv 20  
+Gain normal increase (+0.5*D*/+0.5*H*) per level up to lv 20
 then half thereafter (+0.25*D*/+0.25*H*)
 
 ##### P2W Gacha Cat
 
-Gains normal increase (+0.5*D*/+0.5*H*) per level up to lv 20  
-then 3× (+1.5*D*/+1.5*H*) up to lv 30  
-then 6× (+3*D*/+3*H*) up to lv 40  
+Gains normal increase (+0.5*D*/+0.5*H*) per level up to lv 20
+then 3× (+1.5*D*/+1.5*H*) up to lv 30
+then 6× (+3*D*/+3*H*) up to lv 40
 then 9× (+6*D*/+6*H*) up to lv 50
 
 See [the following post](https://discord.com/channels/355179033018892289/355181039947350016/750010051917381713)
@@ -150,14 +152,14 @@ for a breakdown of the discovery and calculation of this.
 
 The main takeaway of this is that levelling stuff past a certain level (usually 60) gives diminishing returns. For rares, super rares, ubers and legend rares, a further soft cap at 80 or 90 for rares exists.
 
-The stat formula in equation is only valid for cats in the first part of their levelling curve. It is possible to write down more general formulae which account for the levelling curve, but this adds no further intuitive understanding and only makes the algebra more cumbersome, so will be omitted here. In future calculations in this document it will be assumed that *L* is sufficiently low that the levelling curve does not need to be accounted for, so we can use the simple equation above.
+The stat formula in equation is only valid for cats in the first part of their levelling curve. It is possible to write down more general formulae which account for the levelling curve, but this adds no further intuitive understanding and only makes the algebra more cumbersome, so will be omitted here. In future calculations in this document it will be assumed that _L_ is sufficiently low that the levelling curve does not need to be accounted for, so we can use the simple equation above.
 
 Some notes on this:
 
-* Special cats (other than Li’l Cats, Bikkuriman specials, and Bahamut) are capped at 40/50 and won’t ever feel this curve.
-* Non-gacha rares and super rares (advent drops, etc.) are capped at 50 and won’t even notice either, except Crazeds who start to feel this earliest at Lv 20.
-* Ubers will most likely not reach more than +10 for most people, but if they do, the returns are diminishing after that point.
-* Legend rares are capped at level 59 and do not ever feel their levelling curve.
+- Special cats (other than Li’l Cats, Bikkuriman specials, and Bahamut) are capped at 40/50 and won’t ever feel this curve.
+- Non-gacha rares and super rares (advent drops, etc.) are capped at 50 and won’t even notice either, except Crazeds who start to feel this earliest at Lv 20.
+- Ubers will most likely not reach more than +10 for most people, but if they do, the returns are diminishing after that point.
+- Legend rares are capped at level 59 and do not ever feel their levelling curve.
 
 ### Attack Orbs
 
@@ -165,23 +167,23 @@ Some notes on this:
 
 Attack Talent Orbs also operate in terms of base stats. An S rank orb adds +5*D* damage to your attacks vs the relevant trait. (A = 4, B = 3, and so on). An increase in damage by 5*D* is quite large, comparable to ten level ups at low levels. Basically, it is equivalent to powering up a Lv 30 cat to Lv 40.
 
-A generalisation of the equation to include an orb of level *O* would be:
+A generalisation of the equation to include an orb of level _O_ would be:
 
-Level *L* → `([2 + L / 2] + O) × D` damage,
+Level _L_ → `([2 + L / 2] + O) × D` damage,
 
-where *O* = 0 for no orb, *O* = 1 for a D-orb, and so on until *O* = 5 for an S-orb.
+where _O_ = 0 for no orb, _O_ = 1 for a D-orb, and so on until _O_ = 5 for an S-orb.
 
 Because of levelling curves, however, it is not always just “plus 10 levels”. Orbs always add the same amount of stats, but additional levels become less valuable as you level up more. It is hence also the equivalent of 70 to 90 on a rare, or 60 to 80 on a super rare, as the orb still adds the same amount of stats (5*D*) but the level ups are worth less (0.25*D*, 1/20 of the orb) than at lower levels. Indeed, very high levels, an S-Rank attack orb is worth 40 levels (0.125*D* = 1/40 of an S orb). A level 90 rare with an S rank orb has the attack power of a level 130 without, and a level 80 super rare becomes as strong as a level 120 with no orb. Ubers are unlikely to reach this level even for the most hardcore (legitimate) players so are not considered here, but they follow the same curve as super rares, as mentioned above.
 
 Defense orbs do not directly work in terms of base stats, but instead based on a % reduction in damage, and are beyond the scope of this work.
 
-Damage multipliers like Massive Damage do not stack with orbs, and only affect the part of damage which comes from levels. That is, for a damage multiplier *M*,
+Damage multipliers like Massive Damage do not stack with orbs, and only affect the part of damage which comes from levels. That is, for a damage multiplier _M_,
 
-Level *L* → `([2 + L / 2] M + O) × D` damage.
+Level _L_ → `([2 + L / 2] M + O) × D` damage.
 
 ##### Example: Aphrodite
 
-Aphrodite with maximum CotC treasure (*M* = 4) and *D* = 2400 at Level 50 does 259,200 damage to aliens. This is not enough to break UltraBaaBaa’s 266,000 hp barrier.
+Aphrodite with maximum CotC treasure (_M_ = 4) and _D_ = 2400 at Level 50 does 259,200 damage to aliens. This is not enough to break UltraBaaBaa’s 266,000 hp barrier.
 **What level of attack orb is needed to break this barrier?**
 
 ### Catseye Efficiency
@@ -192,8 +194,8 @@ Beyond level 30, it costs 1 catseye per level to power up a cat. Beyond level 45
 
 The first thing to note, is that if you were to spend 10 catseyes, you could do either of the following power ups:
 
-* Lv 30 to Lv 40 (+5*D*, +5*H*) = 0.5*D*/0.5*H* per catseye
-* Lv 45 to Lv 50 (+2.5*D*, +2.5*H*) = 0.25*D*/0.25*H* per catseye
+- Lv 30 to Lv 40 (+5*D*, +5*H*) = 0.5*D*/0.5*H* per catseye
+- Lv 45 to Lv 50 (+2.5*D*, +2.5*H*) = 0.25*D*/0.25*H* per catseye
 
 It is hence inefficient to use catseyes on powering up cats from Lv 45 to Lv 50, when there are still stat focused cats at lower levels, as the stat gain per catseye diminishes by half.
 
@@ -201,10 +203,10 @@ However, this is further complicated by rares and super rares with enough + leve
 
 Consider a Level 30+25 rare. We could then do the following upgrades with rare catseyes, paying attention to the levelling curve C rules.
 
-* Lv 30+25 to Lv 35+25 (+2.5*D*, +2.5*H*) for 5 catseyes = 0.5*D*/0.5*H* per catseye
-* Lv 35+25 to Lv 40+25 (+2.5*D*, +2.5*H*) for 5 catseyes = 0.5*D*/0.5*H* per catseye
-* Lv 40+25 to Lv 45+25 (+2.5*D*, +2.5*H*) for 5 catseyes = 0.5*D*/0.5*H* per catseye
-* Lv 45+25 to Lv 50+25 (+1.25*D*, +1.25*H*) for 10 catseyes = 0.125*D*/0.125*H*
+- Lv 30+25 to Lv 35+25 (+2.5*D*, +2.5*H*) for 5 catseyes = 0.5*D*/0.5*H* per catseye
+- Lv 35+25 to Lv 40+25 (+2.5*D*, +2.5*H*) for 5 catseyes = 0.5*D*/0.5*H* per catseye
+- Lv 40+25 to Lv 45+25 (+2.5*D*, +2.5*H*) for 5 catseyes = 0.5*D*/0.5*H* per catseye
+- Lv 45+25 to Lv 50+25 (+1.25*D*, +1.25*H*) for 10 catseyes = 0.125*D*/0.125*H*
   per catseye
 
 Notice that the last 5 power ups hit the levelling curve and add only half the stats, at the same time the catseye cost doubles, therefore the catseyes becomes only one quarter as valuable as before. The lesson to learn here is that boosting with catseyes can very quickly become very cost-inefficient with gacha rares/supers with many + levels. Be careful when deciding if it is truly worth it; for something with immense base stats like Can Can, it surely still is. For something more moderate, it might be worth considering if something less boosted is worth the investment.
@@ -212,18 +214,18 @@ Notice that the last 5 power ups hit the levelling curve and add only half the s
 ### NP vs Plus Levels at high boost
 
 ---
- 
- Similarly, it is commonly advised to sell duplicate cats for NP if they are not stat-oriented units like Psychocat or Stilts. Meanwhile, it is worth adding a + level to attackers or high HP units like Cameraman or Ramen. This remains the case. However, there are also “borderline” cases where it could go either way. Cats like Vaulter with some respectable stats but also often used as a proc unit, for example. The levelling curve might be important to consider here, as the stat value of + levels eventually drops, but the NP returns remain constant.
+
+Similarly, it is commonly advised to sell duplicate cats for NP if they are not stat-oriented units like Psychocat or Stilts. Meanwhile, it is worth adding a + level to attackers or high HP units like Cameraman or Ramen. This remains the case. However, there are also “borderline” cases where it could go either way. Cats like Vaulter with some respectable stats but also often used as a proc unit, for example. The levelling curve might be important to consider here, as the stat value of + levels eventually drops, but the NP returns remain constant.
 
 Consider a Level 30 super rare with ok stats. You could
 
-* Use for +0.5*D* and +0.5*H*
-* Sell for 15NP
+- Use for +0.5*D* and +0.5*H*
+- Sell for 15NP
 
 Now consider a Level 50+10 super rare of the same species. You could
 
-* Use for +0.25*D* and +0.25*H* (half the gain)
-* Sell for 15NP (the same gain)
+- Use for +0.25*D* and +0.25*H* (half the gain)
+- Sell for 15NP (the same gain)
 
 If you were unsure before, know that at this point the gain is halved if you choose to use vs sell. If user rank is your main concern, or if you don’t need NP, this will likely not concern you. If you are interested in performance vs cost, however, this may be worth keeping in mind.
 
@@ -235,13 +237,13 @@ As a general rule, I’d say the mere 5NP for a rare is never a game changer, an
 
 ---
 
-In a previous section we derived the base stat multiplier of a low level (before the curve) cat at level *L* with full treasures:
-We found the damage of a cat with full treasure at low Level *L*. We can also show that without any treasures, a cat at low level (before the curve) *K*, this is:
+In a previous section we derived the base stat multiplier of a low level (before the curve) cat at level _L_ with full treasures:
+We found the damage of a cat with full treasure at low Level _L_. We can also show that without any treasures, a cat at low level (before the curve) _K_, this is:
 
-Level *K* → `(0.8 + K / 5) × D` damage and `(0.8 + K / 5) ×
+Level _K_ → `(0.8 + K / 5) × D` damage and `(0.8 + K / 5) ×
 H` HP.
 
-We can then ask the question, at what level *K* does a treasureless cat need to be at, to be equal in stats to a level *L* cat with treasures?
+We can then ask the question, at what level _K_ does a treasureless cat need to be at, to be equal in stats to a level _L_ cat with treasures?
 
 This is the solution of
 
@@ -251,14 +253,13 @@ or
 
 `K = 6 + 2.5L`
 
-So a treasured cat with *L* = 4, is equivalent to a treasureless cat at *K* = 6 + (2.5 × 4) = 16.
+So a treasured cat with _L_ = 4, is equivalent to a treasureless cat at _K_ = 6 + (2.5 × 4) = 16.
 An Eraser at Level 4 with treasure has 2400 HP. An Eraser at Level 16 with no treasure also has 2400 HP.
 
 At higher levels, this gets more complicated due to the levelling curve, but
-[here is a graph](https://media.discordapp.net/attachments/709051283994312804/866089697062420480/Figure_3.png) showing the value of *K* on the x-axis and the corresponding value of *L* on the y-axis for rare (green), normal (blue) and uber (orange) cats.
+[here is a graph](https://media.discordapp.net/attachments/709051283994312804/866089697062420480/Figure_3.png) showing the value of _K_ on the x-axis and the corresponding value of _L_ on the y-axis for rare (green), normal (blue) and uber (orange) cats.
 
-![Graph](https://media.discordapp.net/attachments/709051283994312804/866089697062420480/Figure_3.png)  
-  
+![Graph](https://media.discordapp.net/attachments/709051283994312804/866089697062420480/Figure_3.png)
 
 To interpret this, draw a line from the level of the treasureless cat on the x axis up to the plotted graph, then draw a line across to the y axis to see what level that is equivalent to with treasures.
 
@@ -272,20 +273,18 @@ Don’t neglect treasures!
 
 ---
 
-It is commonly stated that *"manics at a given level have roughly the same stats as basics at double the level"*. Knowing what we now know about levelling curves, this merits some further investigation.
+It is commonly stated that _"manics at a given level have roughly the same stats as basics at double the level"_. Knowing what we now know about levelling curves, this merits some further investigation.
 
-Let us consider King Dragon (*D* = 400) vs Manic King Dragon (*D* = 880). As a function of level
+Let us consider King Dragon (_D_ = 400) vs Manic King Dragon (_D_ = 880). As a function of level
 (x-axis), the damage per hit of these cats with full treasure (y-axis) then looks like
 [this](https://media.discordapp.net/attachments/709051283994312804/866090111560318976/Figure_1.png).
 
-![Graph](https://media.discordapp.net/attachments/709051283994312804/866090111560318976/Figure_1.png)  
-  
+![Graph](https://media.discordapp.net/attachments/709051283994312804/866090111560318976/Figure_1.png)
 
 [Now](https://media.discordapp.net/attachments/709051283994312804/866090119042695168/Figure_2.png),
 let us look at the ratio of these damage values (manic/normal, y axis) vs the adjusted level (x-axis) such that x = 40 means Lv 40 manic and Lv 80 normal (double) and so on.
 
-![Graph](https://media.discordapp.net/attachments/709051283994312804/866090119042695168/Figure_2.png)  
-  
+![Graph](https://media.discordapp.net/attachments/709051283994312804/866090119042695168/Figure_2.png)
 
 We see an interesting curve. At low levels, the manic is actually far better than the double-level normal.
 
@@ -309,10 +308,9 @@ Levelling up cats is one of the most central and important parts of the game, bu
 
 Corrections, questions and suggestions for future topics to cover are welcome can be pinged or DM’d to the original author (@ThanksFëanor#3087) at any time, or he can be found on [the r/battlecats discord server](https://discord.gg/battlecats).
 
-
 ### Credits
 
 ---
 
-**ThanksFëanor**#3087 (original document redaction)  
+**ThanksFëanor**#3087 (original document redaction)
 **Waran-Ess**#9801 (minor edits and web conversion)
