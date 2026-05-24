@@ -1,7 +1,8 @@
 ---
 tags:
-title: A Guide to Advents
+title: Advents Guide
 ---
+
 ### Introduction
 
 ---

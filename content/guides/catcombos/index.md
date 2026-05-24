@@ -1,39 +1,30 @@
 ---
-title: CatCombo guide
----
-### Introduction
-
+title: CatCombos
 ---
 
-CatCombos become available after beating EoC chapter 1, and more are unlocked as you complete further chapters.
-CatCombos only work on the top row of battle lineups and can occupy up to 5 unit slots. There are many different
-types of CatCombos and levels, ranging from Small (Sm) to Extra Large (XL). This guide covers all cat combo
-types and how cat combo levels affect a unit's stats/abilities.
+## Introduction
 
-### How to Read This Guide
+CatCombos become available after beating EoC chapter 1, and more are unlocked as you complete further chapters. CatCombos only work on the top row of battle lineups and can occupy up to 5 unit slots. There are many different types of CatCombos and levels, ranging from Small (Sm) to Extra Large (XL). This guide covers all cat combo types and how cat combo levels affect a unit's stats/abilities.
 
----
+## How to Read This Guide
 
-Combos are shown in a table, with the first column being the combo level (Sm/M/L/XL) and the second column
-showing the potency of the effect it causes.
+Combos are shown in a table, with the first column being the combo level (Sm/M/L/XL) and the second column showing the potency of the effect it causes.
 
 |     |                   |
 | --- | ----------------- |
 | X   | Effect at level X |
 
-Not all combo levels that exist in theory currently have combos in the game which use them. Such non-accessible
-combo levels will be grayed out like this:
+Not all combo levels that exist in theory currently have combos in the game which use them. Such non-accessible combo levels will be stylised like this:
 
-|     |                                                                                         |
-| --- | --------------------------------------------------------------------------------------- |
-| Y   | This combo doesn't exist at level Y in the game, but here's what it would do if it did. |
+|     |                                                                                           |
+| --- | ----------------------------------------------------------------------------------------- |
+| _Y_ | _This combo doesn't exist at level Y in the game, but here's what it would do if it did._ |
 
-Each type of combo will be accompanied by an example showing how they affect something, to be clear about what
-the number in the table means.
+Each type of combo will be accompanied by an example showing how they affect something, to be clear about what the number in the table means.
 
 ##### E.g.
 
-A Level Z combo will increase [something] from AAA to BBB.
+A Level Z combo will increase _something_ from AAA to BBB.
 
 Those examples may include additional information about how the Cat Combo works, or its limitations:
 
@@ -42,21 +33,19 @@ In this instance, the Massive Damage Sm combo increases the multiplier to 4.4.
 
 This does not affect the Insane Damage ability, only Massive Damage.
 
-See also the [Other Information](#other-information) section at the end of this guide for
+See also the [Other Information](#Other%20Information) section at the end of this guide for
 miscellaneous information about combos in general.
 
 ## Unit Stats
 
----
-
 #### Attack Power
 
-|     |                     |
-| --- | ------------------- |
-| Sm  | +10% Damage (×1.1)  |
-| M   | +15% Damage (×1.15) |
-| L   | +20% Damage (×1.2)  |
-| XL  | +30% Damage (×1.3)  |
+|      |                      |
+| ---- | -------------------- |
+| Sm   | +10% Damage (×1.1)   |
+| M    | +15% Damage (×1.15)  |
+| L    | +20% Damage (×1.2)   |
+| _XL_ | _+30% Damage (×1.3)_ |
 
 ##### E.g.
 
@@ -65,12 +54,12 @@ With Attack Power UP M, this increases by 15% to 11,500 Damage per hit.
 
 #### Defense
 
-|     |                         |
-| --- | ----------------------- |
-| Sm  | +10% HP Increase (×1.1) |
-| M   | +20% HP Increase (×1.2) |
-| L   | +30% HP Increase (×1.3) |
-| XL  | +50% HP Increase (×1.5) |
+|      |                           |
+| ---- | ------------------------- |
+| Sm   | +10% HP Increase (×1.1)   |
+| M    | +20% HP Increase (×1.2)   |
+| L    | +30% HP Increase (×1.3)   |
+| _XL_ | _+50% HP Increase (×1.5)_ |
 
 ##### E.g.
 
@@ -84,7 +73,7 @@ With Defense UP Sm, this is increased by 10% to 20,894 HP.
 | Sm  | +10% Movement Speed (×1.1)  |
 | M   | +15% Movement Speed (×1.15) |
 | L   | +20% Movement Speed (×1.2)  |
-| XL  | +30% Movement Speed (×1.3)  |
+| XL  | +30% Movement Speed (×1.3)l |
 
 ##### E.g.
 
@@ -92,8 +81,6 @@ Ganglion has a Movement Speed of 40.
 With Move Speed UP M, this is increased by 15% to 46.
 
 ## Unit Abilities
-
----
 
 #### Strong Against
 
@@ -106,19 +93,11 @@ With Move Speed UP M, this is increased by 15% to 46.
 
 ##### E.g.
 
-Baby Gao at Level 46 does 10,000 Damage normally.
-Strong multiplies this by 1.5 for 15,000 Damage vs Traited.
-With Strong UP Sm, this multiplier increases by 10% to 1.65.
-Baby Gao will then do 16,500 Damage with the combo.
+Baby Gao at Level 46 does 10,000 Damage normally. Strong multiplies this by 1.5 for 15,000 Damage vs Traited. With Strong UP Sm, this multiplier increases by 10% to 1.65. Baby Gao will then do 16,500 Damage with the combo.
 
-Zroco at 200% magnification does 10,000 Damage.
-Baby Gao has the Strong ability, so takes 0.5 times this (5,000) from Traited.
-With Strong UP Sm, this multiplier decreases by 10% to 0.45.
-Baby Gao therefore takes 4.500 damage from Zroco with the combo active.
+Zroco at 200% magnification does 10,000 Damage. Baby Gao has the Strong ability, so takes 0.5 times this (5,000) from Traited. With Strong UP Sm, this multiplier decreases by 10% to 0.45. Baby Gao therefore takes 4.500 damage from Zroco with the combo active.
 
-With full treasures, the default Attack Multiplier can be increased to 1.8 and the default Damage Taken
-multiplier to 0.4.
-In this instance, the Strong UP Sm combo increases the multipliers to 1.98 and 0.36, respectively.
+With full treasures, the default Attack Multiplier can be increased to 1.8 and the default Damage Taken multiplier to 0.4. In this instance, the Strong UP Sm combo increases the multipliers to 1.98 and 0.36, respectively.
 
 #### Massive Damage
 
@@ -229,14 +208,11 @@ With Weaken UP Sm, this increases by 10% to 220f (7.34s).
 
 ##### E.g.
 
-Balrog at Level 12 does 30,000 Damage normally.
-With max Strengthen talent, he gains +200% damage at 33% HP, bringing the total damage to 90,000.
+Balrog at Level 12 does 30,000 Damage normally. With max Strengthen talent, he gains +200% damage at 33% HP, bringing the total damage to 90,000.
 
-With Strengthen UP M, this is increased by 30% to +230% (99,000 total Damage).
-He still does 30,000 damage (unboosted) when not Strengthened.
+With Strengthen UP M, this is increased by 30% to +230% (99,000 total Damage). He still does 30,000 damage (unboosted) when not Strengthened.
 
-Note that this results in the same damage as just equipping an Attack Power UP Sm combo, but does not affect
-the unstrengthened Balrog or other cats while the Attack Power combo would.
+Note that this results in the same damage as just equipping an Attack Power UP Sm combo, but does not affect the unstrengthened Balrog or other cats while the Attack Power combo would.
 
 ##### E.g.
 
@@ -246,8 +222,7 @@ With max Strengthen talent, he gains +150% damage at 50% HP, bringing the total 
 With Strengthen UP M, this is increased by 30% to +180% (36,400 total Damage).
 He still does 13,000 damage (unboosted) when not Strengthened.
 
-Note that this is _better_ than a Sm Attack Power when strengthened, though still has the drawback of
-not working while unstrengthened and / or on other cats.
+Note that this is _better_ than a Sm Attack Power when strengthened, though still has the drawback of not working while unstrengthened and / or on other cats.
 
 #### Critical
 
@@ -266,8 +241,6 @@ With Critical UP M, this increases to 4%.
 _Units with no critical hit ability do not gain critical hits from this combo._
 
 ## Cat Base
-
----
 
 #### Starting Cannon
 
@@ -332,8 +305,6 @@ With Base Defense UP Sm, this increases by 20% to 235,200.
 
 ## Money & Worker Cat
 
----
-
 #### Starting Money
 
 |     |                       |
@@ -382,8 +353,6 @@ With Worker Cat Max UP Sm, this will increase by 10% to 6,600.
 
 ## Battle Result
 
----
-
 #### Research Power
 
 |     |                                             |
@@ -400,12 +369,9 @@ With Research Power UP L, this is decreased by 79f to 497f (16.57s).
 
 There is a minimum cat cooldown of 60f (2s), and combos will not lower it beyond this point.
 
-When using multiple combos, percentages are added together _before_ their multiplication. This means
-research Sm + M is always equivalent to research L.
+When using multiple combos, percentages are added together _before_ their multiplication. This means research Sm + M is always equivalent to research L.
 
-Without treasures or upgrades, Research Power combos have no effect because research power starts at 0.
-Each treasure set adds 30f and each research upgrade past level 1 adds 6f to research power.
-With full research upgrades and treasures, research power naturally reduces cooldown by 264f (8.80s).
+Without treasures or upgrades, Research Power combos have no effect because research power starts at 0. Each treasure set adds 30f and each research upgrade past level 1 adds 6f to research power. With full research upgrades and treasures, research power naturally reduces cooldown by 264f (8.80s).
 
 #### Accounting
 
@@ -443,8 +409,6 @@ This Cat Combo, just like the Cat Jobs item, will not affect set drops of XP, su
 
 ## Other (Collab)
 
----
-
 #### Eva Angel Killer
 
 |     |                                        |
@@ -462,8 +426,7 @@ Eva Angel Killer multiplies this by 5 for 637,500 HP and 233,750 Damage vs Eva A
 With Eva Angel Killer UP XL, this multiplier increases by 400% to 25.
 Eva Unit-00 will then have 3,187,500 HP against and deal 1,168,750 Damage to Eva Angels with this combo.
 
-The Eva Angel Killer ability only works against the Collaboration Eva Angels such as Ramiel, and will do
-nothing against normal angels or any other enemies.
+The Eva Angel Killer ability only works against the Collaboration Eva Angels such as Ramiel, and will do nothing against normal angels or any other enemies.
 
 #### Witch Killer
 
@@ -482,24 +445,15 @@ Witch Killer multiplies this by 5 for 51,000 HP and 13,600 Damage vs Witches.
 With Witch Killer UP XL, this multiplier increases by 400% to 25.
 Li’l Devil Homura will then have 255,000 HP against and do 68,000 Damage to Witches with this combo.
 
-The Witch Killer ability only works against the Collaboration Witches such as Kirsten, and will do nothing
-against other enemy types.
+The Witch Killer ability only works against the Collaboration Witches such as Kirsten, and will do nothing against other enemy types.
 
 ## Other Information
 
----
+The form of the cat in the combo can be higher than the one specified, but not lower. For example, the "Midsummer Sun" combo takes Cooldown Cat and Solar Cat. You could use their true forms, Bombercat and Chill Cat, but using their first forms (Flower Cat and Wheel Cat, respectively) would have no effect.
 
-The form of the cat in the combo can be higher than the one specified, but not lower. For example, the
-"Midsummer Sun" combo takes Cooldown Cat and Solar Cat. You could use their true forms, Bombercat and Chill Cat,
-but using their first forms (Flower Cat and Wheel Cat, respectively) would have no effect.
+No CatCombos have more than one Gacha unit (Rare Capsule unit) in them. This rule was implemented in version 4.8. There used to be more than 20 CatCombos that contained multiple Gacha units, including ones that contained multiple ubers (For example, “Thunder and Lightning”, which consisted of Thundia and Windy). All combos that contained multiple Gacha units were removed.
 
-No CatCombos have more than one Gacha unit (Rare Capsule unit) in them. This rule was implemented in version
-4.8. There used to be more than 20 CatCombos that contained multiple Gacha units, including ones that contained
-multiple ubers (For example, “Thunder and Lightning”, which consisted of Thundia and Windy). All combos that
-contained multiple Gacha units were removed.
-
-Combos of the same type stack additively. That is, if you have two combos that add +10% to a stat, say Attack, it adds +20% (not
-`×1.1×1.1 = +21%`).
+Combos of the same type stack additively. That is, if you have two combos that add +10% to a stat, say Attack, it adds +20% (not $×1.1×1.1 = +21\%$).
 
 ### Credits
 

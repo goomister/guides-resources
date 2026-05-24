@@ -1,15 +1,16 @@
 ---
-title: Battle Cats Account Recovery Guide
+title: Account Recovery Guide
 ---
+
 ## Step 1: Finding your inquiry code
+
 Your inquiry code is absolutely necessary for PONOS to retrieve your save data. If you haven’t yet, write this down or screenshot it to make sure you can find it in case your save goes missing. The inquiry code is located in the top left of the main menu screen.
 
 ![main_menu_screen](main_menu_screen.png)
 
 ## Step 2: Emailing PONOS support
 
-The next step is to request PONOS to recover your save. You will need to send an email to [support_en@bc01.ponos.net](mailto:support_en@bc01.ponos.net) for the English version of the game. In this email, you should list your inquiry code, the time since you last logged in, and your estimated user rank and catfood amount. This will give PONOS support all the information they should need to recover your save. Once the email is sent, you should get a response within 1-4 business days. If you didn’t provide enough information, the support member may ask you to list your user rank and catfood amount. To avoid having to wait longer for a second response, it is recommended that you include all of the information possible in your first
-email.
+The next step is to request PONOS to recover your save. You will need to send an email to [support_en@bc01.ponos.net](mailto:support_en@bc01.ponos.net) for the English version of the game. In this email, you should list your inquiry code, the time since you last logged in, and your estimated user rank and catfood amount. This will give PONOS support all the information they should need to recover your save. Once the email is sent, you should get a response within 1-4 business days. If you didn’t provide enough information, the support member may ask you to list your user rank and catfood amount. To avoid having to wait longer for a second response, it is recommended that you include all of the information possible in your first email.
 
 ##### Additional version support
 
@@ -23,7 +24,6 @@ Once PONOS recovers your save data, they will send you
 an email that looks like this
 
 ![](ponos_email.png)
-
 
 Note the "Transfer Code" and "Confirmation Code" at the bottom. These codes are how you will return your save data to your Battle Cats app. Here is [a video](https://youtu.be/rGwj6KFrCTU) showing how codes can be entered into the Battle Cats app.
 
