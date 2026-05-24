@@ -196,7 +196,7 @@ Sources of knockback include ability knockback, damage knockback (also known as 
 
 Here are some extra points on these other sources of knockback:
 
-- Cat Cannon and Sniper Cat knockback distance was estimated to be about 100 range, tested a long time ago by Kaxzer. JonesHtog aka SilumanTomcat did recent tests, and estimated damage knockback to be 325~350 distance, and ability knockback to be 155~160 distance. Video of his tests [here](https://youtu.be/64-z_stthuQ).
+- Cat Cannon and Sniper Cat knockback distance was estimated to be about 100 range, tested a long time ago by Kaxzer. JonesHtog aka SilumanTomcat did recent tests, and estimated damage knockback to be 325\~350 distance, and ability knockback to be 155\~160 distance. Video of his tests [here](https://youtu.be/64-z_stthuQ).
 - Each damage knockback occurs at equal intervals of max health. Damage can be large enough to skip damage thresholds, and it will still be one knockback.
 - In relation to ultimate cheesing or some other strategies, it may be good to know what distance and duration of the knockbacks are, though we know generally little about it. We don't need to know that much, it is enough to know that the cats with the highest speed stat are capable of clipping through most hitboxes in the game.
 - Sometimes, we may use knockback for cats to move in closer to the enemy line, which may allow them to hit more enemies, rather than just the ones in front. The speed required of the cat to do this is quite high.
