@@ -36,7 +36,7 @@ Attack Animation → Actual Attack → Backswing → Time Between Attacks → At
 That's what can be obviously observed, but the truth is that the system doesn't totally function like that. You can use common sense to try and understand what you see, but it is not correct when you look at the stats themselves.
 
 The proper attack cycle is:
-![](guides/almost-everything-about-attacks/attack_cycle.png)
+![](attack_cycle.png)
 
 What's this **attack cooldown**? Simply, its the time between the actual attack, and the start of the next attack animation. In reality, it is not the backswing or the time between attacks that dictate the attack cycle. That's why they actually do not exist as stats. Attack cooldown, however, is obeyed all the time, same as with attack animation. Then, under this, the backswing and time between attacks are fluid with each other. Their total value just needs to be equal to or more than the attack cooldown.
 
@@ -70,7 +70,7 @@ These stats can be found on the Spica for cats. For enemies, /u/JulietCat is mai
 
 Explain qualitatively why, in The Path of Kung Fu, when Bahamut and Ururun are deployed, Bahamut may die to Dancer Cat before Ururun even though he has more range, and the factor that causes this scenario to be more frequent than expected. Assume the lineup and setup to be something old school like [this](https://media.discordapp.net/attachments/693183674887438469/850780734015799346/unknown.png)
 
-![](guides/almost-everything-about-attacks/lineup_0.png)
+![](lineup_0.png)
 
 That's about all for this section, the next two sections are much simpler.
 
@@ -117,13 +117,13 @@ First of all, Benzene Field is one of the most unique and creative stages in the
 
 Here was the first strategy that was spread (taken from Wuffa’s vid)
 
-![](guides/almost-everything-about-attacks/wuffa_0.png)
+![](wuffa_0.png)
 
 It was not totally reliable. Having higher level units doesn't even necessarily help, since that accelerates the rate that damage is done to the Faces. The strategy stacked King Dragons which in hindsight is very odd.
 
 It's unknown when exactly, but soon people noticed the Strong Wombo Combo. Here is the lineup used by Wuffa for 3 stars.
 
-![](guides/almost-everything-about-attacks/wuffa_1.png)
+![](wuffa_1.png)
 
 Much more solid and reliable. The combos don't cause more damage to be done to the Faces which makes it all the better. It helps that Awakened Bahamut existed, so the first Rain D could be killed very quickly.
 
