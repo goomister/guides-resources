@@ -68,7 +68,7 @@ These stats can be found on the Spica for cats. For enemies, /u/JulietCat is mai
 
 ### Learning checkpoint
 
-Explain qualitatively why, in The Path of Kung Fu, when Bahamut and Ururun are deployed, Bahamut may die to Dancer Cat before Ururun even though he has more range, and the factor that causes this scenario to be more frequent than expected. Assume the lineup and setup to be something old school like [this](https://media.discordapp.net/attachments/693183674887438469/850780734015799346/unknown.png)
+Explain qualitatively why, in The Path of Kung Fu, when Bahamut and Ururun are deployed, Bahamut may die to Dancer Cat before Ururun even though he has more range, and the factor that causes this scenario to be more frequent than expected. Assume the lineup and setup to be something old school like this
 
 ![](lineup_0.png)
 
