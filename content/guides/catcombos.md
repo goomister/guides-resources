@@ -1,49 +1,6 @@
-CatCombo Guide
-
-# CatCombo Guide
-
 ---
-
-Click to toggle dark theme
-
-##### Contents
-
-Show / Hide contents
-
-- [Introduction](#introduction)
-- [How to Read This Guide](#how-to-read-this-guide)
-- [Unit Stats](#unit-stats)
-  - [Attack Power](#attack-power)
-  - [Defense](#defense)
-  - [Movement Speed](#movement-speed)
-- [Unit Abilities](#unit-abilities)
-  - [Strong Against](#strong-against)
-  - [Massive Damage](#massive-damage)
-  - [Resistant](#resistant)
-  - [Knockback](#knockback)
-  - [Slow](#slow)
-  - [Freeze](#freeze)
-  - [Weaken](#weaken)
-  - [Strengthen](#strengthen)
-  - [Critical](#critical)
-- [Cat Base](#cat-base)
-  - [Starting Cannon](#starting-cannon)
-  - [Cannon Power](#cannon-power)
-  - [Cannon Recharge](#cannon-recharge)
-  - [Base Defense](#base-defense)
-- [Money & Worker Cat](#money-and-worker)
-  - [Starting Money](#starting-money)
-  - [Starting Level](#starting-level)
-  - [Wallet Capacity](#wallet-capacity)
-- [Battle Result](#battle-result)
-  - [Research Power](#research-power)
-  - [Accounting](#accounting)
-  - [Study Power](#study-power)
-- [Other (Collab)](#collab)
-  - [Eva Angel Killer](#eva-angel-killer)
-  - [Witch Killer](#witch-killer)
-- [Credits](#credits)
-
+title: CatCombo guide
+---
 ### Introduction
 
 ---
@@ -544,13 +501,11 @@ contained multiple Gacha units were removed.
 Combos of the same type stack additively. That is, if you have two combos that add +10% to a stat, say Attack, it adds +20% (not
 `×1.1×1.1 = +21%`).
 
----
-
 ### Credits
 
 ---
 
-**fbga^2ze^2n**#2653, **ScamsRUs**#6217, and **Manic**#2526 (compiling numbers and writing examples)
-**ThanksFëanor**#3087 (original design, structure and revision)
-**obafgkm**#7789 (technical fixes for research combos)
+**fbga^2ze^2n**#2653, **ScamsRUs**#6217, and **Manic**#2526 (compiling numbers and writing examples) \
+**ThanksFëanor**#3087 (original design, structure and revision) \
+**obafgkm**#7789 (technical fixes for research combos) \
 **Waran-Ess**#9801 (minor edits and web conversion)

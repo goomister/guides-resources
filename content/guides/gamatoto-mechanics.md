@@ -1,47 +1,6 @@
-Gamatoto Mechanics
-
-# Gamatoto Mechanics
-
 ---
-
-Click to toggle dark theme
-
-##### Contents
-
-Show / Hide contents
-
-- [Key Results Summary](#key-results-summary)
-- [Foreword and Disclaimers](#foreword-and-disclaimers)
-- [The Basics](#the-basics)
-  - [Lines and Number of Drops](#lines-and-number-of-drops)
-  - [Drop Amounts and Caps](#drop-amounts-and-caps)
-  - [Engineers and Helpers](#engineers-and-helpers)
-  - [Levelling Up Gamatoto](#levelling-up-gamatoto)
-- [Advanced Details](#advanced-details)
-  - [Effect of Gamatoto Level](#effect-of-gamatoto-level)
-  - [Effect of Helpers](#effect-of-helpers)
-  - [Effect of Helpers on Cat Food](#effect-of-helpers-on-cat-food)
-  - [Cap Corrections](#cap-corrections)
-- [Best Area For Each Item](#best-area-for-each-item)
-  - [XP and Battle Items](#xp-and-battle-items)
-  - [Cat Food](#cat-food)
-  - [Special Catseyes](#special-catseyes)
-  - [Rare Catseyes](#rare-catseyes)
-  - [Super Rare Catseyes](#super-rare-catseyes)
-  - [Uber Rare Catseyes](#uber-rare-catseyes)
-  - [Multiple Catseye Types](#multiple-catseye-types)
-  - [Optimal Use Of Catamins](#optimal-use-of-catamins)
-- [Other Gamatoto Features](#other-gamatoto-features)
-  - [Ad Bags](#ad-bags)
-  - [Shrine Donations](#shrine-donations)
-  - [Shrine Fortunes](#shrine-fortunes)
-- [Appendix A](#appendix-a)
-- [Appendix B](#appendix-b)
-- [Appendix C](#appendix-c)
-- [Appendix D](#appendix-d)
-- [Appendix E](#appendix-e)
-- [Credits](#credits)
-
+title: Gamatoto Mechanics
+---
 ### Key Results Summary
 
 ---
@@ -927,7 +886,7 @@ and the resulting expectation value is trivial (if tedious) to compute.
 
 ---
 
-**ThanksFëanor**#8162 (writing, analysis, datamining and testing)
-**obafgkm**#7789 (proofreading, datamining and testing)
-**ITstumbler**#1797 (datamining and testing)
+**ThanksFëanor**#8162 (writing, analysis, datamining and testing) \
+**obafgkm**#7789 (proofreading, datamining and testing) \
+**ITstumbler**#1797 (datamining and testing) \
 **Waran-Ess**#9801 (web conversion)

@@ -1,63 +1,6 @@
-Almost Everything About Attacks
-
-##### Navigation panel
-
-[Contents](#)
-
-[Disclaimer](#disclaimer)
-
 ---
-
-[Introduction](#introduction)
-[Attack Cycle](#attack-cycle)
-[Types of Attack](#types-of-attack)
-[Damage, Damage-Altering Abilities and DPS](#damage)
-
-[Other abilities](#other-abilities)
-[DPS (Damage Per Second)](#dps)
-[Attack Range and Movement Speed](#range-and-speed)
-
-[Range](#range)
-[Movement Speed](#speed)
-[Knockback Mechanics and Endurance](#knockback-mechanics)
-[Assessing Cats: Theory vs Practice](#assessing-cats-theory-vs-practice)
-[Tradeoffs in Stats](#tradeoffs-in-stats)
-[Afterword](#afterword)
-
+title: Almost Everything about Attacks
 ---
-
-[Credits](#credits)
-
-# Almost Everything About Attacks
-
----
-
-Click to toggle dark theme
-
-##### Contents
-
-Show / Hide contents
-
-- [Disclaimer](#disclaimer)
-- [Introduction](#introduction)
-- [Attack Cycle](#attack-cycle)
-- [Types of Attack](#types-of-attack)
-- [Damage, Damage-Altering Abilities and DPS](#damage)
-  - [Other abilities](#other-abilities)
-  - [DPS (Damage Per Second)](#dps)
-- [Attack Range and Movement Speed](#range-and-speed)
-  - [Range](#range)
-  - [Movement Speed](#speed)
-- [Knockback Mechanics and Endurance](#knockback-mechanics)
-- [Assessing Cats: Theory vs Practice](#assessing-cats-theory-vs-practice)
-- [Tradeoffs in Stats](#tradeoffs-in-stats)
-- [Afterword](#afterword)
-- [Credits](#credits)
-
-Toggle navigation panel
-
-Show/Hide navigation button
-
 #### Disclaimer
 
 **This resource is several years old and does not represent current knowledge on the game.**
@@ -533,7 +476,7 @@ they act as attackers matter a lot. They may have abilities for crowd control, s
 with whether their attack-related stats allows them to use it well. That's why many of the heated discussions
 about the game are about them.
 
-### Afterword
+## Afterword
 
 ---
 
@@ -562,8 +505,6 @@ Like was mentioned earlier, there exists [a condensed version](attack-timings.ht
 of this guide, which focuses on attack timings.
 
 You may also want to refer to the [terminology guide](terminology.html).
-
----
 
 ### Credits
 

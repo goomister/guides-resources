@@ -1,33 +1,6 @@
-CotC Guide
-
-# A Guide to Cats of the Cosmos
-
 ---
-
-Click to toggle dark theme
-
-##### Contents
-
-Show / Hide contents
-
-- [Disclaimer](#disclaimer)
-- [When to start CotC](#when-to-start-cotc)
-- [Treasures and why they matter](#treasures-and-why-they-matter)
-  - [Mystery Mask](#mystery-mask)
-  - [Crystals](#crystals)
-  - [Fruits](#fruits)
-  - [Energy and XP rewards](#energy-and-xp-rewards)
-  - [Supplemental notes on treasure grinding](#supplemental-treasure-farming-notes)
-- [Deploy Restrictions](#deploy-restrictions)
-- [Gacha Units and Preparations](#gacha-units-and-preparation)
-  - [Mandatory units](#mandatory-units)
-  - [Recommended True Forms](#recommended-true-forms)
-  - [Recommended Talents](#recommended-talents)
-  - [Recommended Gacha Banners](#recommended-banners)
-- [Roadblock stages and getting stuck](#roadblocks-and-getting-stuck)
-- [Useful links](#useful-links)
-- [Credits](#credits)
-
+title: A Guide to Cats of the Cosmos
+---
 ##### Disclaimer
 
 This guide is an unofficial sequel to the [Into the Future guide](itf.html). However,
@@ -232,31 +205,30 @@ as well as other links in the following section.
 
 ##### Communities
 
-**[The official Battle Cats subreddit](https://www.reddit.com/r/battlecats/)**
-**[The subreddit's Discord server](https://discord.gg/battlecats)**
-**[Public Battle Cats Fandom](https://discord.gg/thebattlecats)**
+**[The official Battle Cats subreddit](https://www.reddit.com/r/battlecats/)** \
+**[The subreddit's Discord server](https://discord.gg/battlecats)** 
 
 ##### Stats & Information
 
-**[The official Battle Cats wiki](https://www.battle-cats.wikia.com)**
-**[Mygamatoto](https://mygamatoto.com/)**
+**[The official Battle Cats wiki](https://www.battle-cats.wikia.com)** \
+**[Mygamatoto](https://mygamatoto.com/)** \
 **[Spica](https://battlecats-db.com/)**
 
 ##### Guidemakers
 
 (most of these have at least a few guides on CotC stages)
 
-**[Wuffa](https://www.youtube.com/user/nurseluka)**
-**[Jones](https://www.youtube.com/user/SilumanTomcat)**
-**[Waran](https://www.youtube.com/channel/UCa-cgCixEojzsWvzWhtYbpQ)**
-**[apg](https://www.youtube.com/channel/UCSab-gabyviLXKFc2Wt1EiA)**
-**[yohane](https://www.youtube.com/user/misterhappy444)**
+**[Wuffa](https://www.youtube.com/user/nurseluka)** \
+**[Jones](https://www.youtube.com/user/SilumanTomcat)** \
+**[Waran](https://www.youtube.com/channel/UCa-cgCixEojzsWvzWhtYbpQ)** \
+**[apg](https://www.youtube.com/channel/UCSab-gabyviLXKFc2Wt1EiA)** \
+**[yohane](https://www.youtube.com/user/misterhappy444)** \
 **[Kaxzer](https://www.youtube.com/channel/UCKExZStc4A1VL1-tkgYxewQ)**
 
 ### Credits
 
 ---
 
-**Tungnon**#1337 (original guide redaction)
-**Huubinhdang**#9005 and **Mickey**#9335 (providing feedback)
+**Tungnon**#1337 (original guide redaction) \
+**Huubinhdang**#9005 and **Mickey**#9335 (providing feedback) \
 **Waran-Ess**#9801 (providing feedback, grammar checks, and web conversion)

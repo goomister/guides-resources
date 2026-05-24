@@ -1,20 +1,6 @@
-Battle Cats Account Recovery Guide
-
-# Battle Cats Account Recovery Guide
-
 ---
-
-Click to toggle dark theme
-
-##### Contents
-
-Show / Hide contents
-
-- [Finding your inquiry code](#step-1)
-- [Emailing PONOS](#step-2)
-- [Entering your transfer codes](#step-3)
-- [Credits](#credits)
-
+title: Battle Cats Account Recovery Guide
+---
 ### Step 1: Finding your inquiry code
 
 ---
@@ -51,7 +37,7 @@ email.
 Once PONOS recovers your save data, they will send you
 [an email that looks like this](https://media.discordapp.net/attachments/693183674887438469/863852600780259328/unknown.png).
 
-![PONOS email image example](https://media.discordapp.net/attachments/693183674887438469/863852600780259328/unknown.png)
+[PONOS email image example](https://media.discordapp.net/attachments/693183674887438469/863852600780259328/unknown.png)
 
 Note the "Transfer Code" and "Confirmation Code" at the bottom. These codes are how you will return your save
 data to your Battle Cats app. Here is
@@ -72,11 +58,9 @@ Step-by-step guide:
 where you left off.** However, this usually will only set you back a day or two at most.
 In many cases, your game progress will not be affected at all.
 
----
-
 ### Credits
 
 ---
 
-**totally_anonymous**#0405 (original guide redaction)
+**totally_anonymous**#0405 (original guide redaction) \ 
 **Waran-Ess**#9801 (web conversion)

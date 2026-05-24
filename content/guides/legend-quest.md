@@ -1,34 +1,11 @@
-Legend Quest Info & Details
-
-# Legend Quest Info & Details
-
 ---
-
-Click to toggle dark theme
-
-##### Contents
-
-Show / Hide contents
-
-- [What is Legend Quest?](#what-is-legend-quest)
-  - [Is there any reason to play Legend Quest?](#reasons-to-play)
-  - [How do I unlock Legend Quest?](#how-to-unlock)
-  - [How many stages are there in Legend Quest?](#how-many-stages)
-  - [Where can I play Legend Quest?](#where-to-play)
-- [What do the stages cost to play?](#cost-to-play)
-- [How does the stage randomizer work?](#stage-randomizer)
-- [How does the lineup randomizer work?](#lineup-randomizer)
-- [Does Legend Quest have any restrictions?](#restrictions)
-- [What are the drops from each stage?](#drops)
-- [Tips](#tips)
-- [Credits](#credits)
-
+title: Legend Quest Info & Details
+---
 ### What is Legend Quest?
 
 ---
 
-Legend Quest is a new map challenge similar to Heavenly Tower that is implemented in v8.6. It essentially pits
-you against random Stories of Legend stages, with a random lineup.
+Legend Quest is a new map challenge similar to Heavenly Tower that is implemented in v8.6. It essentially pits you against random Stories of Legend stages, with a random lineup.
 
 ##### Is there any reason to play Legend Quest?
 
@@ -50,19 +27,15 @@ There is a total of 48 stages.
 
 ##### Where can I play Legend Quest?
 
-Open the Legend Stages menu, and naviagte to the Special Stages section (the red ones). If it's scheduled,
-Legend Quest should appear at the very top.
+Open the Legend Stages menu, and navigate to the Special Stages section (the red ones). If it's scheduled, Legend Quest should appear at the very top.
 
 ### What do the stages cost to play?
 
 ---
 
-There are two things: Energy and Stars. Stars are acquired from clearing any SoL map, including the star
-difficulties. The more maps you clear, the more stars you have. Stars consumed in Legend Quest won’t affect
-your SoL progress. The stars will reset on the next Legend Quest appearance.
+There are two things: Energy and Stars. Stars are acquired from clearing any SoL map, including the star difficulties. The more maps you clear, the more stars you have. Stars consumed in Legend Quest won’t affect your SoL progress. The stars will reset on the next Legend Quest appearance.
 
-Regarding the recent change of stars becoming crowns (or "levels" if you prefer), it is currently unknown how
-Legend Quest is affected exactly.
+Regarding the recent change of stars becoming crowns (or "levels" if you prefer), it is currently unknown how Legend Quest is affected exactly.
 
 Energy consumption:
 
@@ -108,11 +81,9 @@ some other cases you could get your whole lineup changed entirely.
 There are some extra rules though:
 
 - The system only picks cat you have unlocked.
-- The system won’t change forms. If you leave Jizo at his first form, the randomizer won’t change him to
-  his second form or third form.
+- The system won’t change forms. If you leave Jizo at his first form, the randomizer won’t change him to his second form or third form.
 - The system ignores blank slots. It won’t fill them with any other cat units.
-- The more you try a stage, the less likely it is your lineup gets swapped. After 5+ tries, you have an high
-  chance that your lineup won’t get swapped at all.
+- The more you try a stage, the less likely it is your lineup gets swapped. After 5+ tries, you have an high chance that your lineup won’t get swapped at all.
 
 ##### Exact probabilities
 
@@ -208,5 +179,5 @@ For more gameplay-oriented tips, make sure to check out
 
 ---
 
-**jones_goth**#8162 (original document redaction)
+**jones_goth**#8162 (original document redaction) \
 **Waran-Ess**#9801 (minor edits and web conversion)

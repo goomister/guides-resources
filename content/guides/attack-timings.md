@@ -1,27 +1,6 @@
-Attack Timings
-
-# Attack Timings
-
 ---
-
-Click to toggle dark theme
-
-##### Contents
-
-Show / Hide contents
-
-- [Introduction](#introduction)
-- [How Most Units Attack](#normal-attack-cycle)
-- [The Rebound Mechanic](#the-rebound-mechanic)
-- [Multi-hit](#multihit)
-- [Terminology](#terminology)
-  - [Foreswing](#foreswing)
-  - [Attack Cooldown](#attack-cooldown)
-  - [Backswing](#backswing)
-  - [Time Between Attacks (TBA)](#time-between-attacks)
-  - [Attack Rate](#attack-rate)
-- [Credits](#credits)
-
+title: Attack Timings
+---
 ### Introduction
 
 ---
@@ -154,13 +133,9 @@ calculate theoretical DPS (Damage Per Second).
 
 ##### Thanks for reading!
 
-For a more complete terminology guide, make sure to check out
-[this document](terminology.html).
+For a more complete terminology guide, make sure to check out [this document](terminology.html).
 
-You can also read dkaf's original guide on attacks
-[here](almost-everything-about-attacks.html).
-
----
+You can also read dkaf's original guide on attacks [here](almost-everything-about-attacks.html).
 
 ### Credits
 

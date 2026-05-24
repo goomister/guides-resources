@@ -1,20 +1,6 @@
-Improving your Legend Quest Winrate
-
-# Improving your Legend Quest Winrate
-
 ---
-
-Click to toggle dark theme
-
-##### Contents
-
-Show / Hide contents
-
-- [Building the lineup](#building-the-lineup)
-- [Playing the stage](#playing-the-stage)
-- [Afterword](#afterword)
-- [Credits](#credits)
-
+title: Improving your Legend Quest Winrate
+---
 ### Building the lineup
 
 ---

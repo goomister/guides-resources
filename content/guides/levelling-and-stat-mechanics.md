@@ -1,5 +1,6 @@
-# Mechanics of Stats and Levelling in Battle Cats
-
+---
+title: Levelling and Stats Mechanics
+---
 This article will explain the mathematics and mechanics of levelling up cats in battle cats. Some elementary algebra will be used to explain points, though conclusions in plain English will also be given. This will be of interest to you if you have ever had questions like:
 
 - How much HP/damage does a cat gain when I level it?
@@ -28,9 +29,9 @@ First let us discuss how much EoC treasures increases stats. Legendary Cat Sword
 
 A level 1 cat without treasures has _D_ damage and _H_ hp.
 
-For x% completion of Legendary Cat Sword, a level 1 cat will have `(1 + 1.5x / 300) × D` damage.
+For x% completion of Legendary Cat Sword, a level 1 cat will have $(1 + 1.5x / 300) × D$ damage.
 
-For x% completion of Legendary Cat Shield, a level 1 cat will have `(1 + 1.5x / 300) × H` HP.
+For x% completion of Legendary Cat Shield, a level 1 cat will have $(1 + 1.5x / 300) × H$ HP.
 
 What this algebra means is the following:
 
@@ -44,8 +45,7 @@ Note that Catbot (as well as sites like mygamatoto) show stats of cats with x = 
 
 ##### Example: Basic Cat
 
-A level 1, basic cat has base stats of _H_ = 100 and _D_ = 8. **What are its stats with full EoC 1
-treasures, full EoC 2 Legendary Cat Shield, but unactivated EoC 2 Legendary Cat Sword?**
+A level 1, basic cat has base stats of _H_ = 100 and _D_ = 8. **What are its stats with full EoC 1 treasures, full EoC 2 Legendary Cat Shield, but unactivated EoC 2 Legendary Cat Sword?**
 (Assume no EoC 3 treasure and remaining at level 1)
 
 ### Levelling
@@ -279,7 +279,7 @@ Let us consider King Dragon (_D_ = 400) vs Manic King Dragon (_D_ = 880). As a f
 (x-axis), the damage per hit of these cats with full treasure (y-axis) then looks like
 [this](https://media.discordapp.net/attachments/709051283994312804/866090111560318976/Figure_1.png).
 
-![Graph](https://media.discordapp.net/attachments/709051283994312804/866090111560318976/Figure_1.png)
+![Graph|60](https://media.discordapp.net/attachments/709051283994312804/866090111560318976/Figure_1.png)
 
 [Now](https://media.discordapp.net/attachments/709051283994312804/866090119042695168/Figure_2.png),
 let us look at the ratio of these damage values (manic/normal, y axis) vs the adjusted level (x-axis) such that x = 40 means Lv 40 manic and Lv 80 normal (double) and so on.
@@ -312,5 +312,5 @@ Corrections, questions and suggestions for future topics to cover are welcome ca
 
 ---
 
-**ThanksFëanor**#3087 (original document redaction)
+**ThanksFëanor**#3087 (original document redaction) \
 **Waran-Ess**#9801 (minor edits and web conversion)

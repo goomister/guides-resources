@@ -1,25 +1,7 @@
-Cannons Guide
-
-# A Guide to Cat Cannons
-
 ---
-
-Click to toggle dark theme
-
-##### Contents
-
-Show / Hide contents
-
-- [Normal Cannon](#normal-cannon)
-- [Slow Beam](#slow-beam)
-- [Iron Wall](#iron-wall)
-- [Thunderbolt](#thunderbolt)
-- [Waterblast](#waterblast)
-- [Holy Blast](#holy-blast)
-- [Breakerblast](#breakerblast)
-- [Curseblast](#curseblast)
-- [Credits](#credits)
-
+title:
+  - A Guide to Catcannons
+---
 ### Normal Cannon
 
 ---
@@ -235,18 +217,13 @@ affected by their status effects (e.g. Queen B. in Floor 45).
 
 ---
 
-##### Thanks for reading!
+### Thanks for reading!
 
-Be sure to refer to
-[this page](https://battle-cats.fandom.com/wiki/Ototo_Development_Team#Base_upgrade_materials.2Finformation)
-for level-specific cannon stats and upgrading costs, and also make sure to check out
-[some of the other documents](../top.html).
-
----
+Be sure to refer to [this page](https://battle-cats.fandom.com/wiki/Ototo_Development_Team#Base_upgrade_materials.2Finformation) for level-specific cannon stats and upgrading costs, and also make sure to check out [some of the other documents](../top.html).
 
 ### Credits
 
 ---
 
-**Waran-Ess**#9801 (original guide redaction)
+**Waran-Ess**#9801 (original guide redaction) \
 **Pandango**#2883 (level 30 cannon stats, Curseblast section, and web conversion)
