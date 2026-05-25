@@ -16,13 +16,13 @@ Combos are shown in a table, with the first column being the combo level (Sm/M/L
 
 Not all combo levels that exist in theory currently have combos in the game which use them. Such non-accessible combo levels will be stylised like this:
 
-|     |                                                                                           |
-| --- | ----------------------------------------------------------------------------------------- |
-| _Y_ | _This combo doesn't exist at level Y in the game, but here's what it would do if it did._ |
+|       |                                                                                             |
+| ----- | ------------------------------------------------------------------------------------------- |
+| ~~Y~~ | ~~This combo doesn't exist at level Y in the game, but here's what it would do if it did.~~ |
 
 Each type of combo will be accompanied by an example showing how they affect something, to be clear about what the number in the table means.
 
-##### E.g.
+**E.g.**
 
 A Level Z combo will increase _something_ from AAA to BBB.
 
@@ -40,42 +40,42 @@ miscellaneous information about combos in general.
 
 #### Attack Power
 
-|      |                      |
-| ---- | -------------------- |
-| Sm   | +10% Damage (×1.1)   |
-| M    | +15% Damage (×1.15)  |
-| L    | +20% Damage (×1.2)   |
-| _XL_ | _+30% Damage (×1.3)_ |
+|        |                        |
+| ------ | ---------------------- |
+| Sm     | +10% Damage (×1.1)     |
+| M      | +15% Damage (×1.15)    |
+| ~~L~~  | ~~+20% Damage (×1.2)~~ |
+| ~~XL~~ | ~~+30% Damage (×1.3)~~ |
 
-##### E.g.
+**E.g.**
 
 Kasa Jizo at Level 46 does 10,000 Damage per hit.
 With Attack Power UP M, this increases by 15% to 11,500 Damage per hit.
 
 #### Defense
 
-|      |                           |
-| ---- | ------------------------- |
-| Sm   | +10% HP Increase (×1.1)   |
-| M    | +20% HP Increase (×1.2)   |
-| L    | +30% HP Increase (×1.3)   |
-| _XL_ | _+50% HP Increase (×1.5)_ |
+|        |                             |
+| ------ | --------------------------- |
+| Sm     | +10% HP Increase (×1.1)     |
+| M      | +20% HP Increase (×1.2)     |
+| ~~L~~  | ~~+30% HP Increase (×1.3)~~ |
+| ~~XL~~ | ~~+50% HP Increase (×1.5)~~ |
 
-##### E.g.
+**E.g.**
 
 Manic Eraser Cat at level 30 has 18,995 HP.
 With Defense UP Sm, this is increased by 10% to 20,894 HP.
 
 #### Movement Speed
 
-|     |                             |
-| --- | --------------------------- |
-| Sm  | +10% Movement Speed (×1.1)  |
-| M   | +15% Movement Speed (×1.15) |
-| L   | +20% Movement Speed (×1.2)  |
-| XL  | +30% Movement Speed (×1.3)l |
+|        |                                |
+| ------ | ------------------------------ |
+| Sm     | +10% Movement Speed (×1.1)     |
+| M      | +15% Movement Speed (×1.15)    |
+| ~~L~~  | ~~+20% Movement Speed (×1.2)~~ |
+| ~~XL~~ | ~~+30% Movement Speed (×1.3)~~ |
 
-##### E.g.
+**E.g.**
 
 Ganglion has a Movement Speed of 40.
 With Move Speed UP M, this is increased by 15% to 46.
@@ -84,14 +84,14 @@ With Move Speed UP M, this is increased by 15% to 46.
 
 #### Strong Against
 
-|     |                                                          |
-| --- | -------------------------------------------------------- |
-| Sm  | +10% Attack Multiplier (×1.1) / -10% Damage Taken (×0.9) |
-| M   | +20% Attack Multiplier (×1.2) / -20% Damage Taken (×0.8) |
-| L   | +30% Attack Multiplier (×1.3) / -30% Damage Taken (×0.7) |
-| XL  | +50% Attack Multiplier (×1.5) / -50% Damage Taken (×0.5) |
+|        |                                                              |
+| ------ | ------------------------------------------------------------ |
+| Sm     | +10% Attack Multiplier (×1.1) / -10% Damage Taken (×0.9)     |
+| M      | +20% Attack Multiplier (×1.2) / -20% Damage Taken (×0.8)     |
+| ~~L~~  | ~~+30% Attack Multiplier (×1.3) / -30% Damage Taken (×0.7)~~ |
+| ~~XL~~ | ~~+50% Attack Multiplier (×1.5) / -50% Damage Taken (×0.5)~~ |
 
-##### E.g.
+**E.g.**
 
 Baby Gao at Level 46 does 10,000 Damage normally. Strong multiplies this by 1.5 for 15,000 Damage vs Traited. With Strong UP Sm, this multiplier increases by 10% to 1.65. Baby Gao will then do 16,500 Damage with the combo.
 
@@ -101,14 +101,14 @@ With full treasures, the default Attack Multiplier can be increased to 1.8 and t
 
 #### Massive Damage
 
-|     |                                       |
-| --- | ------------------------------------- |
-| Sm  | +10% Massive Damage Multiplier (×1.1) |
-| M   | +20% Massive Damage Multiplier (×1.2) |
-| L   | +30% Massive Damage Multiplier (×1.3) |
-| XL  | +50% Massive Damage Multiplier (×1.5) |
+|        |                                           |
+| ------ | ----------------------------------------- |
+| Sm     | +10% Massive Damage Multiplier (×1.1)     |
+| M      | +20% Massive Damage Multiplier (×1.2)     |
+| ~~L~~  | ~~+30% Massive Damage Multiplier (×1.3)~~ |
+| ~~XL~~ | ~~+50% Massive Damage Multiplier (×1.5)~~ |
 
-##### E.g.
+**E.g.**
 
 Kasa Jizo at Level 46 does 10,000 Damage normally.
 Massive Damage multiplies this by 3 for 30,000 Damage vs Black/Angel.
@@ -122,14 +122,14 @@ _This does **not** affect the Insane Damage ability, only Massive Damage._
 
 #### Resistant
 
-|     |                                  |
-| --- | -------------------------------- |
-| Sm  | -10% Resistant Multiplier (×0.9) |
-| M   | -20% Resistant Multiplier (×0.8) |
-| L   | -30% Resistant Multiplier (×0.7) |
-| XL  | -50% Resistant Multiplier (×0.5) |
+|        |                                      |
+| ------ | ------------------------------------ |
+| Sm     | -10% Resistant Multiplier (×0.9)     |
+| M      | -20% Resistant Multiplier (×0.8)     |
+| L      | -30% Resistant Multiplier (×0.7)     |
+| ~~XL~~ | ~~-50% Resistant Multiplier (×0.5)~~ |
 
-##### E.g.
+**E.g.**
 
 Zroco at 200% magnification does 10,000 Damage.
 Sifu Cat has the Resistant to Zombie ability, so takes 0.25 times this (2,500).
@@ -143,70 +143,70 @@ _This does **not** affect the Insanely Tough ability, only Resistant._
 
 #### Knockback
 
-|     |                                |
-| --- | ------------------------------ |
-| Sm  | +10% Knockback Distance (×1.1) |
-| M   | +20% Knockback Distance (×1.2) |
-| L   | +30% Knockback Distance (×1.3) |
-| XL  | +50% Knockback Distance (×1.5) |
+|        |                                    |
+| ------ | ---------------------------------- |
+| Sm     | +10% Knockback Distance (×1.1)     |
+| M      | +20% Knockback Distance (×1.2)     |
+| ~~L~~  | ~~+30% Knockback Distance (×1.3)~~ |
+| ~~XL~~ | ~~+50% Knockback Distance (×1.5)~~ |
 
-##### E.g.
+**E.g.**
 
 Pirate Cat knocks back Red enemies by 165 range.
 With Knockback UP M, this increases by 20% to 198 range.
 
 #### Slow
 
-|     |                           |
-| --- | ------------------------- |
-| Sm  | +10% Slow Duration (×1.1) |
-| M   | +20% Slow Duration (×1.2) |
-| L   | +30% Slow Duration (×1.3) |
-| XL  | +50% Slow Duration (×1.5) |
+|        |                               |
+| ------ | ----------------------------- |
+| Sm     | +10% Slow Duration (×1.1)     |
+| M      | +20% Slow Duration (×1.2)     |
+| ~~L~~  | ~~+30% Slow Duration (×1.3)~~ |
+| ~~XL~~ | ~~+50% Slow Duration (×1.5)~~ |
 
-##### E.g.
+**E.g.**
 
 Can Can Cat slows Red enemies for 120f (4s).
 With Slow UP M, this increases by 20% to 144f (4.8s).
 
 #### Freeze
 
-|     |                             |
-| --- | --------------------------- |
-| Sm  | +10% Freeze Duration (×1.1) |
-| M   | +20% Freeze Duration (×1.2) |
-| L   | +30% Freeze Duration (×1.3) |
-| XL  | +50% Freeze Duration (×1.5) |
+|        |                                 |
+| ------ | ------------------------------- |
+| Sm     | +10% Freeze Duration (×1.1)     |
+| M      | +20% Freeze Duration (×1.2)     |
+| ~~L~~  | ~~+30% Freeze Duration (×1.3)~~ |
+| ~~XL~~ | ~~+50% Freeze Duration (×1.5)~~ |
 
-##### E.g.
+**E.g.**
 
 iCat freezes Red enemies for 60f (2s).
 With Freeze UP M, this increases by 20% to 72f (2.4s).
 
 #### Weaken
 
-|     |                             |
-| --- | --------------------------- |
-| Sm  | +10% Weaken Duration (×1.1) |
-| M   | +20% Weaken Duration (×1.2) |
-| L   | +30% Weaken Duration (×1.3) |
-| XL  | +50% Weaken Duration (×1.5) |
+|        |                                 |
+| ------ | ------------------------------- |
+| Sm     | +10% Weaken Duration (×1.1)     |
+| M      | +20% Weaken Duration (×1.2)     |
+| ~~L~~  | ~~+30% Weaken Duration (×1.3)~~ |
+| ~~XL~~ | ~~+50% Weaken Duration (×1.5)~~ |
 
-##### E.g.
+**E.g.**
 
 Thaumaturge weakens non-Metal enemies for 200f (6.67s).
 With Weaken UP Sm, this increases by 10% to 220f (7.34s).
 
 #### Strengthen
 
-|     |                                        |
-| --- | -------------------------------------- |
-| Sm  | +20% Strengthen Multiplier (absolute)  |
-| M   | +30% Strengthen Multiplier (absolute)  |
-| L   | +50% Strengthen Multiplier (absolute)  |
-| XL  | +100% Strengthen Multiplier (absolute) |
+|        |                                            |
+| ------ | ------------------------------------------ |
+| Sm     | +20% Strengthen Multiplier (absolute)      |
+| M      | +30% Strengthen Multiplier (absolute)      |
+| ~~L~~  | ~~+50% Strengthen Multiplier (absolute)~~  |
+| ~~XL~~ | ~~+100% Strengthen Multiplier (absolute)~~ |
 
-##### E.g.
+**E.g.**
 
 Balrog at Level 12 does 30,000 Damage normally. With max Strengthen talent, he gains +200% damage at 33% HP, bringing the total damage to 90,000.
 
@@ -214,7 +214,7 @@ With Strengthen UP M, this is increased by 30% to +230% (99,000 total Damage). H
 
 Note that this results in the same damage as just equipping an Attack Power UP Sm combo, but does not affect the unstrengthened Balrog or other cats while the Attack Power combo would.
 
-##### E.g.
+**E.g.**
 
 Immortal Keiji at Level 16 does 13,000 Damage normally.
 With max Strengthen talent, he gains +150% damage at 50% HP, bringing the total damage to 32,500.
@@ -226,14 +226,14 @@ Note that this is _better_ than a Sm Attack Power when strengthened, though stil
 
 #### Critical
 
-|     |                                          |
-| --- | ---------------------------------------- |
-| Sm  | +1% to chance of critical hit (absolute) |
-| M   | +2% to chance of critical hit (absolute) |
-| L   | +3% to chance of critical hit (absolute) |
-| XL  | +4% to chance of critical hit (absolute) |
+|        |                                              |
+| ------ | -------------------------------------------- |
+| Sm     | +1% to chance of critical hit (absolute)     |
+| M      | +2% to chance of critical hit (absolute)     |
+| ~~L~~  | ~~+3% to chance of critical hit (absolute)~~ |
+| ~~XL~~ | ~~+4% to chance of critical hit (absolute)~~ |
 
-##### E.g.
+**E.g.**
 
 Cameraman with Critical Talent has a Crit Chance of 2%.
 With Critical UP M, this increases to 4%.
@@ -244,14 +244,14 @@ _Units with no critical hit ability do not gain critical hits from this combo._
 
 #### Starting Cannon
 
-|     |                      |
-| --- | -------------------- |
-| Sm  | Start at 20% charge  |
-| M   | Start at 40% charge  |
-| L   | Start at 60% charge  |
-| XL  | Start at 100% charge |
+|        |                          |
+| ------ | ------------------------ |
+| Sm     | Start at 20% charge      |
+| M      | Start at 40% charge      |
+| ~~L~~  | ~~Start at 60% charge~~  |
+| ~~XL~~ | ~~Start at 100% charge~~ |
 
-##### E.g.
+**E.g.**
 
 From 0% charge, the cannon takes 50s to be fully charged.
 With Starting Cannon Sm, you begin with 20% charge, so it will instead be ready in 80% of the time, or 40s.
@@ -259,14 +259,14 @@ The second charge of the cannon will however restart from 0% and require the ful
 
 #### Cannon Power
 
-|     |                          |
-| --- | ------------------------ |
-| Sm  | +20% more cannon damage  |
-| M   | +50% more cannon damage  |
-| L   | +100% more cannon damage |
-| XL  | +200% more cannon damage |
+|        |                              |
+| ------ | ---------------------------- |
+| Sm     | +20% more cannon damage      |
+| M      | +50% more cannon damage      |
+| ~~L~~  | ~~+100% more cannon damage~~ |
+| ~~XL~~ | ~~+200% more cannon damage~~ |
 
-##### E.g.
+**E.g.**
 
 With max treasures and upgrades on the cannon, it does 4,550 damage.
 With Cannon Power UP Sm, this is increased by 20% to 5,460 damage.
@@ -275,14 +275,14 @@ _Contrary to Cat Cannon Damage upgrades, this combo will not increase the rechar
 
 #### Cannon Recharge
 
-|     |                     |
-| --- | ------------------- |
-| Sm  | Recharge 20% faster |
-| M   | Recharge 30% faster |
-| L   | Recharge 40% faster |
-| XL  | Recharge 50% faster |
+|        |                         |
+| ------ | ----------------------- |
+| Sm     | Recharge 20% faster     |
+| M      | Recharge 30% faster     |
+| ~~L~~  | ~~Recharge 40% faster~~ |
+| ~~XL~~ | ~~Recharge 50% faster~~ |
 
-##### E.g.
+**E.g.**
 
 The cannon with maxed cannon upgrades and full treasures fully recharges every 50 seconds.
 With an Sm boost applied, it will take 40 seconds to recharge.
@@ -291,14 +291,14 @@ There is a minimum cannon recharge time of 950f (31.67s), and combos will not lo
 
 #### Base Defense
 
-|     |                   |
-| --- | ----------------- |
-| Sm  | +20% Base health  |
-| M   | +50% Base health  |
-| L   | +100% Base health |
-| XL  | +200% Base health |
+|        |                       |
+| ------ | --------------------- |
+| Sm     | +20% Base health      |
+| M      | +50% Base health      |
+| ~~L~~  | ~~+100% Base health~~ |
+| ~~XL~~ | ~~+200% Base health~~ |
 
-##### E.g.
+**E.g.**
 
 A player has a Cat Base with 196,000 Health.
 With Base Defense UP Sm, this increases by 20% to 235,200.
@@ -307,28 +307,28 @@ With Base Defense UP Sm, this increases by 20% to 235,200.
 
 #### Starting Money
 
-|     |                       |
-| --- | --------------------- |
-| Sm  | Start with 300 money  |
-| M   | Start with 500 money  |
-| L   | Start with 1000 money |
-| XL  | Start with 2000 money |
+|        |                           |
+| ------ | ------------------------- |
+| Sm     | Start with 300 money      |
+| M      | Start with 500 money      |
+| L      | Start with 1000 money     |
+| ~~XL~~ | ~~Start with 2000 money~~ |
 
-##### E.g.
+**E.g.**
 
 You usually begin a stage with 0 money.
 With Starting Money UP M, you instead begin with 500 money.
 
 #### Starting Level
 
-|     |                      |
-| --- | -------------------- |
-| Sm  | Initial Wallet lv +1 |
-| M   | Initial Wallet lv +2 |
-| L   | Initial Wallet lv +3 |
-| XL  | Initial Wallet lv +4 |
+|        |                          |
+| ------ | ------------------------ |
+| Sm     | Initial Wallet lv +1     |
+| M      | Initial Wallet lv +2     |
+| ~~L~~  | ~~Initial Wallet lv +3~~ |
+| ~~XL~~ | ~~Initial Wallet lv +4~~ |
 
-##### E.g.
+**E.g.**
 
 When you start a battle, your Wallet is usually at Level 1.
 With Starting Level UP M, instead, it will start at Level 3.
@@ -339,14 +339,14 @@ The effect of this combo does not stack with the Rich Cat powerup, which makes y
 
 _This combo is called "Worker Cat Max UP" in-game._
 
-|     |                      |
-| --- | -------------------- |
-| Sm  | +10% capacity (×1.1) |
-| M   | +20% capacity (×1.2) |
-| L   | +30% capacity (×1.3) |
-| XL  | +50% capacity (×1.5) |
+|        |                          |
+| ------ | ------------------------ |
+| Sm     | +10% capacity (×1.1)     |
+| M      | +20% capacity (×1.2)     |
+| L      | +30% capacity (×1.3)     |
+| ~~XL~~ | ~~+50% capacity (×1.5)~~ |
 
-##### E.g.
+**E.g.**
 
 The Wallet Capacity with full treasures and upgrades is usually 6,000 at Level 1.
 With Worker Cat Max UP Sm, this will increase by 10% to 6,600.
@@ -355,14 +355,14 @@ With Worker Cat Max UP Sm, this will increase by 10% to 6,600.
 
 #### Research Power
 
-|     |                                             |
-| --- | ------------------------------------------- |
-| Sm  | +10% Research Power (usually 26f or 0.87s)  |
-| M   | +20% Research Power (usually 52f or 1.73s)  |
-| L   | +30% Research Power (usually 79f or 2.63s)  |
-| XL  | +50% Research Power (usually 132f or 4.40s) |
+|        |                                                 |
+| ------ | ----------------------------------------------- |
+| Sm     | +10% Research Power (usually 26f or 0.87s)      |
+| M      | +20% Research Power (usually 52f or 1.73s)      |
+| L      | +30% Research Power (usually 79f or 2.63s)      |
+| ~~XL~~ | ~~+50% Research Power (usually 132f or 4.40s)~~ |
 
-##### E.g.
+**E.g.**
 
 Pizza Cat normally has a cooldown of 576f (19.20s).
 With Research Power UP L, this is decreased by 79f to 497f (16.57s).
@@ -375,14 +375,14 @@ Without treasures or upgrades, Research Power combos have no effect because rese
 
 #### Accounting
 
-|     |                 |
-| --- | --------------- |
-| Sm  | +10% Money Drop |
-| M   | +20% Money Drop |
-| L   | +30% Money Drop |
-| XL  | +50% Money Drop |
+|        |                     |
+| ------ | ------------------- |
+| Sm     | +10% Money Drop     |
+| M      | +20% Money Drop     |
+| ~~L~~  | ~~+30% Money Drop~~ |
+| ~~XL~~ | ~~+50% Money Drop~~ |
 
-##### E.g.
+**E.g.**
 
 One Horn drops 9,875 money when killed.
 With Accounting Power UP Sm, this is increased by 10% to 10,863.
@@ -391,14 +391,14 @@ This does stack with the Double Money ability.
 
 #### Study Power
 
-|     |         |
-| --- | ------- |
-| Sm  | +10% XP |
-| M   | +15% XP |
-| L   | +20% XP |
-| XL  | +30% XP |
+|        |             |
+| ------ | ----------- |
+| Sm     | +10% XP     |
+| ~~M~~  | ~~+15% XP~~ |
+| ~~L~~  | ~~+20% XP~~ |
+| ~~XL~~ | ~~+30% XP~~ |
 
-##### E.g.
+**E.g.**
 
 XP Colosseum with the Cat Jobs item (+50% XP) gives 874,200 XP.
 With Study Power UP Sm, this is increased by 10% to 961,620 XP.
@@ -411,14 +411,14 @@ This Cat Combo, just like the Cat Jobs item, will not affect set drops of XP, su
 
 #### Eva Angel Killer
 
-|     |                                        |
-| --- | -------------------------------------- |
-| Sm  | +400% Eva Angel Killer Multiplier (×5) |
-| M   | +400% Eva Angel Killer Multiplier (×5) |
-| L   | +400% Eva Angel Killer Multiplier (×5) |
-| XL  | +400% Eva Angel Killer Multiplier (×5) |
+|        |                                            |
+| ------ | ------------------------------------------ |
+| ~~Sm~~ | ~~+400% Eva Angel Killer Multiplier (×5)~~ |
+| ~~M~~  | ~~+400% Eva Angel Killer Multiplier (×5)~~ |
+| ~~L~~  | ~~+400% Eva Angel Killer Multiplier (×5)~~ |
+| XL     | +400% Eva Angel Killer Multiplier (×5)     |
 
-##### E.g.
+**E.g.**
 
 Eva Unit-00 at Level 30 has 127,500 HP and does 46,750 Damage.
 Eva Angel Killer multiplies this by 5 for 637,500 HP and 233,750 Damage vs Eva Angels.
@@ -430,14 +430,14 @@ The Eva Angel Killer ability only works against the Collaboration Eva Angels suc
 
 #### Witch Killer
 
-|     |                                    |
-| --- | ---------------------------------- |
-| Sm  | +400% Witch Killer Multiplier (×5) |
-| M   | +400% Witch Killer Multiplier (×5) |
-| L   | +400% Witch Killer Multiplier (×5) |
-| XL  | +400% Witch Killer Multiplier (×5) |
+|        |                                        |
+| ------ | -------------------------------------- |
+| ~~Sm~~ | ~~+400% Witch Killer Multiplier (×5)~~ |
+| ~~M~~  | ~~+400% Witch Killer Multiplier (×5)~~ |
+| ~~L~~  | ~~+400% Witch Killer Multiplier (×5)~~ |
+| XL     | +400% Witch Killer Multiplier (×5)     |
 
-##### E.g.
+**E.g.**
 
 Li’l Devil Homura at Level 30 has 10,200 HP and does 2,720 Damage.
 Witch Killer multiplies this by 5 for 51,000 HP and 13,600 Damage vs Witches.

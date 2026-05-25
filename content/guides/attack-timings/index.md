@@ -1,13 +1,10 @@
 ---
 title: Attack Timings
 ---
-### Introduction
 
----
+## Introduction
 
-Huge thanks to dkaf for writing the original document on attacks; this condensed version is mostly based on his
-work. I highly recommend you give it a read if you want to understand everything better, which you can do
-[here](almost-everything-about-attacks.html).
+Huge thanks to dkaf for writing the original document on attacks; this condensed version is mostly based on his work. I highly recommend you give it a read if you want to understand everything better, which you can do [at the almost everything about attacks guide](../almost-everything-about-attacks/index.md).
 
 If you look at any cat or enemy unit in battle, you can see them attack. In fact, the process of attacking is a
 cycle that repeats itself continuously. This cycle is broken up into several key steps, which are:

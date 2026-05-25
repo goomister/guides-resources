@@ -1,11 +1,11 @@
 ---
-title: Battle Cats Progress Outline
+title: Progress Outline
 ---
 This document contains a rough division of parts of the game into Early, Mid, Late, End and Post game activities.
 
 Every player will have a different experience: do not expect this to apply equally to everyone. This is based on the rough difficulty of things if you do not have any broken ubers and play under normal conditions. If you have fest exclusives or use any kind of exploits, you can probably ignore this entirely. Things in each phase are not listed in the order you should complete them: instead, you should complete them in parallel, progressing more in each as you can, and feel like it, or when the content is available.
 
-### Tutorial
+## Tutorial
 
 _"I just started the game and am learning the basics!"_
 
@@ -14,7 +14,7 @@ During this phase, you should be aiming to:
 - Complete Empire of Cats, Chapters 1, 2 and 3: Unlock Bahamut Cat
     - Obtain 100% treasures in each of these chapters
 
-### Early Game
+## Early Game
 
 _"Bahamut is my new best friend!"_
 
@@ -36,7 +36,7 @@ Alongside this, you should be able to:
 - Begin to clear early Aku stages such as Empress Research 1
 - Clear Areas 1~4 of Behemoth Culling stages
 
-### Mid Game
+## Mid Game
 
 _"How did I ever live without Awakened Bahamut and Crazed Cats?"_
 
@@ -63,7 +63,7 @@ Alongside this, you should be able to:
 - Clear Areas 5~10 of Behemoth Culling stages
 - Start obtaining Behemoth Stones (and Ancient Eggs), as well as unlocking some Behemoth Slayer units' True Forms
 
-### Late Game
+## Late Game
 
 _"Oh Sweet Summer Child, you thought Mid Game was hard?"_
 
@@ -91,7 +91,7 @@ Alongside this, you should be able to:
 - Clear the highest current Area of Behemoth Culling stages
 - Unlock most important Behemoth Slayer True Forms
 
-### End Game
+## End Game
 
 _"When will Ponos release new content?"_
 
@@ -113,7 +113,7 @@ Alongside this, you should be able to:
 - Make a serious attempt at finishing Baron Stages
 - Complete Mining Epic and unlocking the important Epic Behemoth Stone True Forms
 
-### Post Game
+## Post Game
 
 _"Why am I still playing?"_
 
@@ -129,13 +129,11 @@ Alongside this, you should be able to:
 - Reach User Rank 15000 for 20+80 Superfeline and unlocking Superfeline's True Form
 - Reach at least around Floor 75 / 5% rank in Labyrinths
 
-##### Thanks for reading!
+## Thanks for reading!
 
 These boundaries will change a bit with time, so if something needs updating, you think something should be added or moved, or you otherwise vastly disagree with the content, you may contact @ThanksFëanor#3087 on the r/battlecats Discord server.
 
----
-
-### Credits
+## Credits
 
 **ThanksFëanor**#3087 (original guide redaction) \
 **Waran-Ess**#9801 (minor edits and web conversion) \

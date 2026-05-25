@@ -1,6 +1,5 @@
 ---
-title:
-  - CatCannons
+title: CatCannons
 ---
 
 ## Normal Cannon
@@ -170,7 +169,7 @@ This cannon has very niche usage, limited to enemies that inflict status effects
 
 ## Thanks for reading!
 
-Be sure to refer to [this page](https://battle-cats.fandom.com/wiki/Ototo_Development_Team#Base_upgrade_materials.2Finformation) for level-specific cannon stats and upgrading costs, and also make sure to check out some of the other documents here.
+Be sure to refer to [this page](https://battlecats.miraheze.org/wiki/Ototo_Corps) for level-specific cannon stats and upgrading costs, and also make sure to check out some of the other documents here.
 
 ## Credits
 
