@@ -1,5 +1,6 @@
-title: Battle Cats Terminology
-
+---
+title: Terminology
+---
 ## Disclaimer
 
 Some of the information contained in this guide may not be accurate (specifically anything that is marked in red). If you are able to confirm the accuracy of these bits of information,
