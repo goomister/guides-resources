@@ -1,7 +1,7 @@
 # Resources
 
-This is a project to convert documents and resources from the r/battlecats Discord community to a web format.
-You can find most of them online [here](https://thanksfeanor.pythonanywhere.com/guides/top.html).
+This is a project to UPDATE documents and resources from the r/battlecats Discord community to a web format, made by the r/battlecats Helper Team.
+You can find the old ones online [here](https://thanksfeanor.pythonanywhere.com/guides/top.html).
 
 ### Current roadmap
 
