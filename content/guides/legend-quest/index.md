@@ -1,37 +1,33 @@
 ---
 title: Legend Quest Info & Details
 ---
-### What is Legend Quest?
 
----
+### What is Legend Quest?
 
 Legend Quest is a new map challenge similar to Heavenly Tower that is implemented in v8.6. It essentially pits you against random Stories of Legend stages, with a random lineup.
 
-##### Is there any reason to play Legend Quest?
+### Is there any reason to play Legend Quest?
 
 1. Challenge, to prove yourself as a pro Battle Cats player.
 2. Various rewards from each stage, including rare Legend Catseyes.
 
-##### How do I unlock Legend Quest?
+### How do I unlock Legend Quest?
 
 There are 3 general requirements to unlock Legend Quest completely:
 
 1. Legend Quest is accessible after you beat Empire of Cats chapter 1.
-2. To open Stage x, you need to beat SoL chapter x+1. For example, to play Stage 1 in LQ, you need to beat SoL
-   chapter 2. To play Stage 18 in LQ, you need to beat SoL chapter 19, and so on.
+2. To open Stage x, you need to beat SoL chapter x+1. For example, to play Stage 1 in LQ, you need to beat SoL chapter 2. To play Stage 18 in LQ, you need to beat SoL chapter 19, and so on.
 3. To play Stage 11 and on, you need to reach User Rank 1600.
 
-##### How many stages are there in Legend Quest?
+### How many stages are there in Legend Quest?
 
 There is a total of 48 stages.
 
-##### Where can I play Legend Quest?
+### Where can I play Legend Quest?
 
 Open the Legend Stages menu, and navigate to the Special Stages section (the red ones). If it's scheduled, Legend Quest should appear at the very top.
 
 ### What do the stages cost to play?
-
----
 
 There are two things: Energy and Stars. Stars are acquired from clearing any SoL map, including the star difficulties. The more maps you clear, the more stars you have. Stars consumed in Legend Quest won’t affect your SoL progress. The stars will reset on the next Legend Quest appearance.
 
@@ -48,12 +44,9 @@ Star consumption:
 - Stage 1-40 costs 1~4 star
 - Stage 41-48 costs 2~5 star
 
-Every time you retry a stage, the star consumption is increased by 1. This continues until it stops
-after the third incrementation.
+Every time you retry a stage, the star consumption is increased by 1. This continues until it stops after the third incrementation.
 
 ### How does the stage randomizer work?
-
----
 
 The stages in Legend Quest take a random SoL stage. But there is a rule to this randomizer. Every Stage No. x in
 Legend Quest will take a random stage from SoL chapter x or x+1.
@@ -72,11 +65,7 @@ Enemy Lookout automatically reveals all enemies in the stage. Use that to plan y
 
 ### How does the lineup randomizer work?
 
----
-
-The system won’t completely build a lineup for you. Instead, it will swap some of your cats on your lineup with
-randomly picked cats. The number of cats swapped is also random. In some cases you could get one cat swapped, on
-some other cases you could get your whole lineup changed entirely.
+The system won’t completely build a lineup for you. Instead, it will swap some of your cats on your lineup with randomly picked cats. The number of cats swapped is also random. In some cases you could get one cat swapped, on some other cases you could get your whole lineup changed entirely.
 
 There are some extra rules though:
 
@@ -98,17 +87,12 @@ There are some extra rules though:
 
 ### Does Legend Quest have any restrictions?
 
----
-
 There are two:
 
 - No Continues
-- The 10 seconds rule does not apply. If you quit before 10s, you still lose energy, stars, and power ups used
-  in the battle.
+- The 10 seconds rule does not apply. If you quit before 10s, you still lose energy, stars, and power ups used in the battle.
 
 ### What are the drops from each stage?
-
----
 
 All drops are guaranteed, but are only available once per appearance.
 
@@ -152,32 +136,19 @@ All drops are guaranteed, but are only available once per appearance.
 - Stage 47: Random Catseyes x3
 - Stage 48: Legend Catseyes x3
 
-Random Catseyes can be Legend Catseyes. There are up to 23 Legend Catseyes you can get in total, but only 8 of
-them are guaranteed. Like Heavenly Tower, the drop rewards reset on every appearance.
+Random Catseyes can be Legend Catseyes. There are up to 23 Legend Catseyes you can get in total, but only 8 of them are guaranteed. Like Heavenly Tower, the drop rewards reset on every appearance.
 
 ### Tips
 
----
-
 For more gameplay-oriented tips, make sure to check out
-[this document](improving-your-lq-winrate.html).
+[this document](../improving-your-lq-winrate).
 
-- Complete as many SoL chapters as possible. Don’t expect you will beat Stage 25+ in one try, and star
-  consumption easily shoots up as you retry the stages. Having more stars means more retries are available.
-- Upgrade every cat unit you have, especially the ones with attacker/generalist traits. It would suck if you
-  got Drama Cats as random cat but it’s still at level 5.
-- Study SoL stages and your units throughout. Knowing stage schematics allows you to know how to beat the
-  stages with random cats. Understanding units' stats and role lets you quickly see which random unit can help
-  you and which can’t.
-- Since the randomized stage won’t change, you can build a specific lineup that counters the stage heavily for
-  the next retry. If possible, bring multiple true counters. If the stage has Razorback, get Bombercat, Oda,
-  and Gunslinger. This way, if one of them gets swapped out, you still have the others to back you up.
-- Have fun! No matter how skilled or how knowledgeable you are, it’s still mostly about luck. Don’t get
-  stressed out with the bad cards you draw. Just laugh at it and continue fighting until you get burned out.
+- Complete as many SoL chapters as possible. Don’t expect you will beat Stage 25+ in one try, and star consumption easily shoots up as you retry the stages. Having more stars means more retries are available. Upgrade every cat unit you have, especially the ones with attacker/generalist traits. It would suck if you got Drama Cats as random cat but it’s still at level 5.
+- Study SoL stages and your units throughout. Knowing stage schematics allows you to know how to beat the stages with random cats. Understanding units' stats and role lets you quickly see which random unit can help you and which can’t.
+- Since the randomized stage won’t change, you can build a specific lineup that counters the stage heavily for the next retry. If possible, bring multiple true counters. If the stage has Razorback, get Bombercat, Oda, and Gunslinger. This way, if one of them gets swapped out, you still have the others to back you up.
+- Have fun! No matter how skilled or how knowledgeable you are, it’s still mostly about luck. Don’t get stressed out with the bad cards you draw. Just laugh at it and continue fighting until you get burned out.
 
 ### Credits
-
----
 
 **jones_goth**#8162 (original document redaction) \
 **Waran-Ess**#9801 (minor edits and web conversion)
