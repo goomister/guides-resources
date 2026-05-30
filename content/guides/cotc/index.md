@@ -2,184 +2,386 @@
 title: Cats of the Cosmos
 ---
 
-## Disclaimer
+This guide aims to focus mainly on Cats of the Cosmos content only. If you wish to read a guide about ItF and early SoL, please check [this guide](../itf/index.md).
 
-This guide is an unofficial sequel to the [ItF guide](../itf/index.md). However, this guide does not cover Crazed/Manic units or SoL in detail, focusing on Cats of the Cosmos (CotC) only. It is recommended to read the ItF guide first if you haven't already, as it contains a good amount of useful information, namely treasure mechanics.
+#### General Information
 
-## When should I start CotC?
+These do not apply to the CotC Outbreaks. Please refer to the CotC Outbreak section for more information.
 
-It is strongly recommended to complete all three Into the Future chapters (and collect all available treasures) before diving into CotC. Even though ItF crystals do not affect the magnifications of starred aliens, unstarred aliens are a common occurrence in CotC. Plus, Awakened Bahamut is a powerful asset you will want to have by your side for this. Not to mention completing ItF also gives you access to talents.
+## All Chapters
 
-Here's an example of progression you can use as a general guideline:
+### Enemy traits
 
-- ItF Ch. III + SoL 1 - 18
-- CotC Ch. I & II
-- SoL 19 - 49
-- UL 1
-- CotC Ch. III
+- **Starred Alien**
+  - The _star_ of this story arc. Starred Aliens are another group of Alien enemies. However, they are not affected by ItF crystal treasures. They have separate crystal treasures in CotC to decrease their magnifications.
+- **Alien**
+  - Non Starred Aliens still make an appearance here. They are affected by ItF crystal treasure but NOT affected by CotC crystal treasures.
+- **Others:** Red, Floating, Black, Angel, Metal, and Traitless
 
-Why this order?
+### Restrictions
 
-1. You need Awakened Bahamut and Ururun Wolf for some Special-only restriction stages (which will be covered later).
-2. CotC chapters I & II aren't very different in terms of difficulty, so you should be able to complete the two of them in a row without much problem if you have good units on your side and make sure to collect treasures.
-3. CotC fruits are good to have for late SoL (as are ItF fruits).
-4. Starting with subchapter 43 (Area 22), SoL features starred aliens. You need at least the crystal treasures from chapter I to have a chance, and collecting the treasures from chapter II will let you breeze through until UL 13.
-5. CotC ch. III has a sharp difficulty spike. It is highly recommended to collect all treasures from the first two chapters before diving into the third one, as starred aliens in CotC ch. III have very high magnifications (around 100% in ch. I, 250-500% in ch. II and 1000-2300% in ch. III).
-6. While it is far from mandatory, having access to level 50 units and Legend True Forms is a nice plus, especially for some restricted stages.
-7. UL 13+ features starred aliens with very high magnifications (around 2000%), forcing you to collect all crystals from CotC I - III.
+This mechanic makes Cats of the Cosmos unique from other game parts. All three stages have different restrictions, with a few exceptions. The restrictions are as listed:
 
-## Treasures available in CotC, and why they matter
+- Normal, Rare, Super Rare, Uber Rare, Legend Rare Cats only
+- Cats with ≥300¢ deployment cost
+- MAX number of 20 Cats
+- Only deploy Cats in the first row
+- Normal, Special, Uber Rare, and Legend Rare Cats only
+- Cats with ≤4000¢ deployment cost
+- Special, Rare, Super Rare Cats only
+- Cats with ≤1200¢ deployment cost
+- MAX number of 15 Cats
+- Special Cats only
+- Cats with ≥1200¢ deployment cost
+- MAX number of 10 Cats
+- Special, Rare, Uber Rare, Legend Rare Cats only
 
-Whereas EoC and ItF feature frequent treasure festivals, CotC festivals are considerably less common (at least in BCEN). Nevertheless, collecting treasures is still as important as ever— possibly even more so here.
+Some stages can have more than one restriction combined.
 
-### Mystery Mask
+## CotC I
 
-At the end of each chapter, you have to face Cat God. He has a default magnification of 1100%, and the only way to lower it is to collect the Mystery Mask treasure (1% on the treasure = –10% to Cat God's magnification). The Mystery Mask treasure only affects one chapter at a time (i.e. the one from chapter I doesn't affect Cat God's magnification in the other two chapters).
+### Rewards
 
-**Farming priority: Mandatory**
+- 70% discount on all Cat God Miracle (pointless)
+- 100 Cat Food
+- 3 million XP from obtaining all superior treasures
+- Access to Valkyrie Cat’s Trial (Balanced around max CotC 2 crystals)
+
+### Magnifications
+
+- Starred Aliens: 100%
+- Others: Around ItF II level
+
+## CotC II
+
+### Rewards
+
+- **Cat God the Great** is a Special cat unit
+- 100 Cat Food
+- Four million XP from obtaining all superior treasures
+- Access to Bahamut Cat’s Trial (Balanced around max CotC 3 crystals)
+
+### Magnifications
+
+- Starred Aliens: 130%-300% for old Starred Aliens, 100% for new Starred Aliens
+- Others: Around Mid-SoL level
+
+## CotC III
+
+### Rewards
+
+- **Cat Capsule \+**
+  - A direct upgrade to the old Cat Capsule. See the “Cat Capsule \+” section for more detail
+- 150 Cat Food and a **Platinum Ticket**
+- Five million XP from obtaining all superior treasures
+- Clearing Filibuster invasion (bonus stage) will grant you **Filibuster Cat X**
+
+### Magnifications
+
+- Starred Aliens: 150%-2500% for old Starred Aliens, 100-900% for new Starred Aliens
+- Others: Around Late-SoL level
+
+## CotC Progression
+
+### When should I start CotC?
+
+As there are non-starred aliens in CotC, it is highly recommended to clear **ItF III AND SoL 18** before starting CotC. Awakened Bahamut Cat, Ururun Wolf, and talents are helpful tools to assist you during the journey.
+
+### Minimum Requirements for SoL and UL
+
+- **SoL 24+:** ItF I \- III
+- **SoL 43+:** CotC I
+- **UL 7+ and CotC I Outbreak:** CotC II
+- **UL 13+:** CotC III
+
+No matter how you progress, please keep the bare minimum above in your mind. Fighting starred aliens with unfair mags without treasure will put you at a significant disadvantage, even with ubers.
+
+### Recommended Progression
+
+There are 3 phases for progression after you beat EoC:
+
+Pre CotC
+
+- SoL 1 \- 18
+- ItF ch. I \- III
+
+You are recommended to do these first before start bothering CotC.
+
+CotC \+ Majority of SoL
+
+- CotC I \- III
+- SoL 19 \- 49
+- Early Behemoth Culling Stages
+- ItF Outbreaks
+
+I recommend you finish CotC III before completing SoL. CotC treasures make SoL progression much easier with fruit treasures and starred alien crystals.
+
+Post CotC
+
+- Uncanny Legends
+- Aku Realm
+- CotC Outbreaks
+- Late Behemoth Culling Stages
+
+You should not bother with these stages until CotC completion. The treasures will make these stages significantly more manageable for you to progress.
+
+CotcC III treasures are mandatory for some of the stages: Super Cosmic Cyclone, Zyclone, and Primeval Cyclone Revenge, Wanwan's Glory, Puffer Planet, Zonel Rise, Jinfore Volcano Lava Caves Area 5, Proving Ground Last Round: Dusk (Merciless), Heavenly Tower F43, Catclaw Championship Rank 9 Test 3, and most importantly, Bahamut Cat's Trial. Beating Bahamut's Journey to Talent stage grants access to Bahamut's Talents. Its explosion talent, when maxed, makes it a game-breaking unit that annihilates most of Early-Mid game content. This alone gives players enough incentive to target CotC completion as priority above SoL or other contents.
+
+### Note
+
+1. You MUST get Awakened Bahamut AND Ururun Wolf for some Special cat restriction stages.
+2. You can get a **free** platinum ticket upon beating CotC III. Any decent or standard Uber can stomp SoL hard if your luck is not bad.
+3. ItF Outbreaks should be done once you complete ItF. The same thing applies to CotC Outbreaks. The free Cat Food and max energy cap are overall helpful.
+
+## CotC Treasure Grinding
+
+### Notes
+
+- ItF’s alien crystals do NOT affect starred aliens in CotC. However, they do affect non starred aliens there and everywhere else.
+- Using treasure radar to get treasures is _no longer recommended_. They should be preserved for Unit Drop stages or XP Bonanza. For challenging/tedious CotC stages like Andormeda, Skelling, Aguham, or Black hole, you can skip those with gold CPU instead.
 
 ### Crystals
 
-Similar deal as ItF crystals. Once again, it is strongly recommended to get all treasures as you progress through the stages, as magnifications can ramp up in the middle of the chapter.
+Starred Aliens have base magnification at 1600% by default. Each 100% Crystal decreases magnification by 100%. The magnification is multiplicative, meaning a 200% Starred Alien enemy would have a default magnification at 3200% (200% \* 1600%).
 
-**Farming priority: Very high**
+**Farming Priority: MANDATORY**
+
+### Mystery Mask
+
+Obtaining these will decrease Cat God’s magnification. Without it, the Cat God will have 1100% magnification by default. Once you get this treasure to 100%, the treasure reduces his magnification to 100%. Mystery Mask affects only the chapter it comes from. (e.g., Mystery Mask from Ch. II affects Cat God but not Final Boss Giga-God)
+
+**Farming Priority: MANDATORY**
 
 ### Fruits
 
-Not mandatory, but good to have in general.
+Not mandatory but incredibly useful for increasing anti-trait efficiency. The anti-zombie fruits are beneficial in those stages.
 
-**Farming priority:** Medium
+**Farming Priority: High**
 
-### Energy and XP rewards
+## Dark Matter
 
-Not needed, but good for making progression easier without affecting in-battle gameplay.
+A higher energy cap enables you to do much more from one leadership. It’s ideal to hit 1000 Energy Cap, so you can do 2 XP Colosseum clears per Leadership or equivalent.
 
-**Farming priority:** Low
+**Farming Priority: High**
 
-## Supplemental notes on treasure grinding
+## Neutrino
 
-- Starred Aliens have a base magnification at 1600%. Each (completed) crystal treasure set decreases their magnification by 100% (eventually bringing the default magnification down to 100%). The magnification is multiplicative, not additive: this means that a 200% Starred Alien enemy would have a default magnification of 3200% (200% × 1600%).
-- ItF crystals have no effect on starred aliens, but they do affect unstarred aliens appearing in CotC.
-- BCEN only has a scheduled treasure festival on the 22nd of every month.
-- BCJP has scheduled festivals every day.
-- It is generally considered acceptable to use treasure radars on some of the later CotC III stages, such as Skelling and Andromeda, due to their notable difficulty.
+More XP is nice for levelling your units.
 
-## Deploy Restrictions
-
-Most stages in CotC have deploy restrictions, with one of them having two and a handful having none. Here are all the possible restrictions:
-
-- Normal, Rare, Super Rare, Uber Rare, Legend Rare Cats only
-- Normal, Special, Uber Rare, Legend Rare Cats only
-- Special, Rare, Uber Rare, Legend Rare Cats only
-- Special, Rare, Super Rare Cats only
-- Special Cats only
-- Cats with ≥300¢ deployment cost
-- Cats with ≤1200¢ deployment cost
-- Cats with ≥1200¢ deployment cost
-- Cats with ≤4000¢ deployment cost
-- MAX number of 20 Cats (as opposed to the usual cat limit of 50)
-- MAX number of 15 Cats
-- MAX number of 10 Cats
-- First row (5 slots) only
+**Farming Priority: Medium**
 
 ## Gacha Units and Preparations
 
-### Mandatory Units
+### Mandatory Preparations
 
-The following units/things are highly recommended and you should ideally obtain them before diving into CotC:
+The following units/things are _HIGHLY recommended_, and you should get them before progressing in CotC.
 
-- 100% EoC ch. I - III + ItF ch. I - III treasures
-- Awakened Bahamut Cat
-- Ururun Wolf
-- Every Crazed Cat except Crazed Moneko
-- Li’l Macho Legs _or_ Loincloth Cat (to break barriers in special units only restriction in Ch. II/III)
+- **100% EoC I \- III \+ ItF I \- III treasures**
+- **Awakened Bahamut Cat**
+- **Ururun Wolf** (For special units only restriction)
+- **Crazed cat, Crazed Tank Cat**, **Crazed Gross Cat** and **Crazed Fish Cat**
+  - These three Crazed units are powerful and useful throughout CotC
 
-### Recommended True Forms
+### Recommended True Forms and Talents for Gacha Units
 
-Asterisks\* indicate units that need a boost from talents before being good enough for CotC usage.
+Note:
 
-- **Seafarer** (Surfer / Castaway)
-  - Most of the dangerous starred aliens have short range, and seafarer can counter them very well.
-- **Chill** (Wheel / Solar)
-  - Good for more or less the same reasons as Seafarer, but focuses on damage rather than CC.
-- **Catellite** (Rover / Rover Mk II)
-  - Meatshield with warp immunity, good to have for some warp-heavy stages.
-- **Can Can** (Hip Hop / Dancing Flasher)
-  - Extremely good physical stats, even better with talents.
-- **Corrupted Psychocat** (Psychocat / Neo Psychocat)
-  - Can assist Seafarer against some of the more threatening aliens like Nimoy Bore.
-- **iCat** (Apple Cat / Face Cat)
-  - For some of the stages that feature red enemies (Bore)
-- **The Kitty of Liberty** (Fencer / Kendo)
-  - Great to have around, especially for enemies whose barriers can't be broken by other means (UltraBaaBaa)
-- **Cameraman** (Mer-cat / Commando)
-- **Pizza** (Weightlifter / Ring Girl)
-- **Roe\*** (Sushi / Fried Shrimp)
-- **Cyberpunk\*** (Nerd / Hacker)
-  - Pretty much only needed for a handful of stages in chapter III
-- Honorable mention: **Miter Saw Cat** (doesn't have a true form as of BCEN 10.5, but still performs very
-  well in CotC overall)
+1. You can skip some of these True Forms and talents. They may NOT be mandatory, but they are beneficial to get.
+2. The one with an asterisk (\*) means they are good only with talents.
 
-Note: None of these true forms are mandatory. You can skip any of them if you wish, but they are among
-the most helpful to get.
+### Helpful against Aliens
 
-### Recommended Talents
+- **Surfer Cat / Castaway Cat / Seafarer Cat**
+  - Most dangerous starred aliens are short-range. Thus Seafarer shines here as a reliable crowd control unit.
+- **Rover Cat / Rover Cat Mk II / Catellite**
+  - Catellite is a Warp Immune meatshield .
+- **Wheel Cat / Solar Cat / Chill Cat**
+  - Chill Cat maybe not be that viable in ItF. However, because more threatening starred aliens are bulky and short-ranged, Chill Cat is an excellent unit to wear them down.
+- **Psycho Cat / Neo Psycho Cat / Corrupted Psycho Cat**
+  - Supplementary CC for some stages where Seafarer alone is not enough.
+- **Miter Saw Cat / Power Saw Cat**
+  - Break certain CotC stages (especially the one with 1200c restriction) easily.
+- **Fencer Cat / Kendo Cat / The Kitty of Liberty**
+  - Relevant in CotC II \- III. Ultra Baabaa’s barrier health is too high to brute-force.
 
-- Can Can Cat – Extra money (bounty) + Speed Up
-- Cyberpunk Cat – Barrier Breaker + Slow Up
-- Pizza Cat – Wave attack
-- Roe Cat – Cost down to level 5 (1200¢ price is compatible with both ≤1200¢ and ≥1200¢ deployment cost restrictions)
-- Chill Cat – Cost Down (NOT knockback, it makes the unit worse)
+### Helpful in general
 
-Note: Again, none of these talents are mandatory. You can skip any of them if you wish, but they are among the most helpful to get.
+- **Mer-Cat / Commando Cat / Cameraman Cat**
+- **Salon Cat / Paris Cat / Cyborg Cat**
+- **Figure Skating Cats / Drama Cats**
+  - General area attacker
+- **Hip Hop Cat / Dancing Flasher Cat / Can Can Cat**
+  - _Talents:_ Bounty \+ Speed Up
+  - Can Can Cat has high stats in general. His Double Bounty Talent makes him great for startoff in stages.
+- **Weightlifter / Ring Girl / Pizza Cat**
+  - _Talent:_ Wave Attack
+  - General area attacker and Anti Black Nuker
+  - Note: Cost down Talent higher than _level 5_ will stop being compatible with \> 1200¢ price restriction
+- **Vaulter Cat / Pole Vaulter Cat / Housewife Cat**
+  - _Talent:_ Savage Blow
+  - General LD attacker
+- **Nymph Cat / Medalist Cat / Fiend Cat** (if you have it)
+  - General LD attacker
+- **Nerd Cat / Hacker Cat / Cyberpunk Cat\***
+  - _Talent:_ Slow Up (Barrier Breaker talent is too expensive to be worth)
+- **Brainwashed Gross Cat / Brainwashed Sexy Legs Cat**
+  - Cheap area attacker with absurd effective DPS from surge attacks. Just use it. You won’t be disappointed.
 
-### Recommended Gacha Banners
+### Helpful in certain CotC stages
 
+- **Swimmer Cat / Butterfly Cat / Fishman Cat**
+  - For The Cat God (floating) in CotC I and Cli-one.
+- **Sushi Cat / Fried Shrimp Cat / Roe Cat**
+  - For stages with Red enemies or certain restriction stages
+  - Note: Cost down Talent higher than level 5 will make it incompatible with \> 1200¢ price restriction
+- **Apple Cat / Face Cat / iCat**
+  - for stages with Red enemies
+- **Jurassic Cat / Jurassic Cat Sitter / Catasaurus**
+  - _Talent:_ Critical Up
+  - for Metal enemies
+
+## Recommended Gacha Banners
+
+Speaking of gachas, here are gacha banners you should roll with Cat Food if you want to beat CotC easily
+
+- The Almighties: The Majestic Zeus
 - Dark Heroes
-- Almighties
 - Ultra Souls
+- The Dynamites
 - Elemental Pixies
 
-## A point on roadblock stages and "getting stuck"
+If you want details about specific Ubers, please ask about them on help channels.
 
-It is likely you will encounter a roadblock at least once when playing through CotC. Here are some tips to help with the situation:
+## Recommended Non-Gacha Units
 
-- If you go in blind and lose to a stage, make sure to study the schematics and adjust your lineup accordingly.
-- Are you missing any crucial units or true forms to beat the stage? If yes, consider getting them.
-- Consider grinding treasures if you haven't already. Any activated crystal helps a lot.
-- If you fail in Big Bang (Cat God) stages, there is a high chance that you do not have the Mystery Mask at full power. The first thing you should do is getting the Mystery Mask to 100%.
-- If you still fail after doing all the above, you should look for reliable help. The best places for it are YouTube tutorial videos and Discord servers.
+These units are nice to have. However, some of these may be hard or annoying to obtain.
 
-## Thanks for reading!
+- **Manic Units** (mostly **Manic Eraser**, **Manic Macho Legs**, and **Manic Island Cat**)
+  - Highly recommended to get before CotC III completion.
+- **Ancient Egg: N101 / Cinnabar Egg: N101 / Courier Cat**
+  - A cheap spammable area attacker with fast movement speed and LD ability. It crushes Red enemies here. Even not against Red, it is still generally a solid unit.
+- **Ancient Egg: N001 / Mystic Egg: N001 / Haniwa Cat**
+  - An anti traitless meatshield that is usable on Special Cats only stages.
+- **Express Cat / Maglev Cat / Bullet Train Cat**
+  - Getting instant cash upon defeating the enemy helps deploy units faster.
+- **Slime Cat / Jellycat / Jelly Dumpling Cat**
+  - A broken wave unit with huge damage, low price, and low recharge time. However, obtaining this unit might be challenging as it requires some boosts.
+- **Red Riding Mina / Crimson Mina**
+  - Generally helpful. However, in Uber Rare non-limited stages, most long distance backliner ubers will outperform her.
+- **Sumo Cat / Madame Sumo / Riceball Cat**
+  - _Talent:_ Defense Up\*
+  - Your Eraser Cat replacement for Special Cats only stages.
+- **Kung Fu Cat / Drunken Master Cat / Dancer Cat**
+  - _Talent:_ Attack Up\*
+  - After attack up talent, Dancer deals incredibly high damage even for outside special cat-only stages.
+- **Loincloth Cat** and **Li’l Macho Legs Cat**
+  - You need one to break Ultra Baa Baa’s barrier on CotC II restriction stages without Breaker Blast. However, if you have Breaker Blast, you can skip these.
+- **Li’l Cat** and **Li’l Eraser Cat**
+  - Meatshields for Special Cats only stages.
+- **Crazed Moneko / Corrupted Moneko** or **Million-Dollar Cat / Hundred-Million-Dollar Cat**
+  - Your only reliable Critical Attackers against Metal Doge on Aguham III.
+- **Lone Cat and Kitten / Vendor Cat and Kitten / Tourist Cat**
+  - For Cat God in (CotC II) and Final Boss Giga-God (CotC III)
 
-Be sure to check out [the ItF guide](../itf/index.md), as well as other links in the following section.
+## Breaker Blast
 
-## Useful links
+Breaker Blast can knock enemies back and break barriers. If you are ok with grind materials, you can get Breaker Blast. CotC is still doable with Cat Cannon.
+
+## Getting Stuck in CotC Stages
+
+These stages may be challenging, and you will likely find a dead end somewhere. Here are some things you should do:
+
+- If you play blind and lose to a stage, study stage schematics and build your lineup appropriately to the stage.
+- Are you missing any crucial unit true forms to beat the stage? If yes, consider getting those true forms.
+- If you feel Aliens are too strong, there is a high chance that your crystal treasures are insufficient. Go back and get them all.
+- If you fail in the Cat God stages, there is a high chance that you did NOT get Mystery Mask to 100%. The first thing you should do is get Mystery Mask to 100%.
+- If you fail after doing all the above, you should search for reliable help. Wiki is NOT the best place to learn strategy, and some strats are quite inconsistent. The best place to get help is through YouTube tutorial videos. If you fail after watching the video, you can ask for help from Discord servers.
+
+## Cat Capsule \+
+
+### What is it? How do you obtain it?
+
+Upon **clearing CotC III**, you will receive Cap Capsule \+. It is a significant improvement from the previous classic Cat Capsule. Three improvements:
+
+- Expands storage from 64 to 128 units
+- Superfeline (new Normal Cat) using Cat Ticket.
+  - It is a weak unit that is supposed to deal massive damage to Relic enemies. However, Superfeline stats are too weak to be viable until True Form (at 15001 User Rank).
+  - The appearance of Superfeline decreases your chance of getting Rare Tickets by 3%, thanks to how Gacha works.
+- Selling Normal Cat for 2 NP instead of 1\.
+
+If you see sparkles like the image above, you successfully unlock Cat Capsule \+.
+
+## CotC Outbreaks
+
+Since 11.3, CotC I has had a zombie outbreak. They function almost identically to EoC and ItF ones. However, as they belong to CotC stages, they also have special restrictions.
+
+Rewards:
+
+- 10 CF per stage (480 CF in total)
+- 50 max energy increase for each chapter cleared
+- MeowMedals to flex
+
+### CotC I Outbreak
+
+- Restrictions: 5/10/15 units max.
+- Magnifications:
+  - Starred Aliens: CotC II mags
+  - Zombies: 250%
+  - Others: Late SoL 1 star
+
+### CotC II Outbreak
+
+- Restrictions: 5/10/15 units max.
+- Note: Peon Behemoth enemies (WIld Doge, Zant, Zenry etc.) appear here.
+- Magnifications:
+  - Starred Aliens: CotC III mags
+  - Zombies: 300%
+  - Behemoths: 100%
+  - Others: Late SoL 1 star
+
+### CotC III Outbreak
+
+- Restrictions: 5/10/15 units max.
+- Note: Some Tough Enemies (Deathshund, Ostromeda, Aku Gory) appear here. Some of the enemies showed up in CotC III Outbreak (Sir Rel, JJJackrabbit, Zollow, Zapy) reappear with higher mags.
+- Magnifications:
+  - Starred Aliens: CotC III mags
+  - Zombies: 300\~350%
+  - Behemoths: 100-200%
+  - Others: Early UL 1 star
+
+_Tips:_ As you cannot deploy new units when you reach the deployment limit, Zombie enemies will be much tougher to defend. Once your units are full, you cannot deploy anything against burrowed Zombies. Be mindful of the management of your unit.
+
+## Useful Links
 
 ### Communities
 
-**[The official Battle Cats subreddit](https://www.reddit.com/r/battlecats/)** \
-**[The subreddit's Discord server](https://discord.gg/battlecats)**
+**[The official Battle Cats subreddit](www.reddit.com/r/battlecats/)** \
+**[The subreddit Discord server](https://discord.gg/46BDgPj)**
 
 ### Stats & Information
 
-**[The official Battle Cats wiki](https://battlecats.miraheze.org/wiki/Battle_Cats_Wiki)** \
+**[The official Battle Cats wiki](www.battle-cats.wikia.com)** \
 **[Mygamatoto](https://mygamatoto.com/)** \
-**[Spica](https://battlecats-db.com/)**
+**[Spica](https://battlecats-db.com/)** \
+**[Battle Cats Wiki's Cat Stats Tool](https://battlecats.miraheze.org/wiki/Cat_Stats_Tool)** \
+**[Battle Cats Wiki's Cat Filter](https://battlecats.miraheze.org/wiki/Cat_Filter)** \
+**[Cat Combo Viewer](https://alcantha.github.io/cat_combo_viewer/)** \
+**[NP Calculator (by Darkfluoz CoolGFan#6880)](https://docs.google.com/spreadsheets/d/1CCn8vjqlKY4OEn0MZRzxBeQNjV8MWjsNq2UjHqhOOSk/edit?usp=sharing)**
 
 ### Guidemakers
 
-(most of these have at least a few guides on CotC stages)
+**[Lucas IV](https://www.youtube.com/user/Gameandwatch97)** \
+**[Yohane](https://www.youtube.com/user/misterhappy444)** \
+**[Kartoffel](https://www.youtube.com/@kartoffel9684)** \
+**[Channel63](https://www.youtube.com/@pen-6363)** \
+**[Axiom](https://www.youtube.com/@axiom9840)** \
+**[Lee Jinger Zhred](https://www.youtube.com/@LeeJingerZhred)** \
+**[catbattles COOL](https://www.youtube.com/@catbattles)** \
+**[OscarCGW](https://www.youtube.com/@oscarcgw615)** \
+**[Goomister](https://www.youtube.com/@goomister29)** \
+**[Wuffa](https://www.youtube.com/user/nurseluka)**
 
-**[Wuffa](https://www.youtube.com/user/nurseluka)** \
-**[Jones](https://www.youtube.com/user/SilumanTomcat)** \
-**[Waran](https://www.youtube.com/channel/UCa-cgCixEojzsWvzWhtYbpQ)** \
-**[apg](https://www.youtube.com/channel/UCSab-gabyviLXKFc2Wt1EiA)** \
-**[yohane](https://www.youtube.com/user/misterhappy444)** \
-**[Kaxzer](https://www.youtube.com/channel/UCKExZStc4A1VL1-tkgYxewQ)**
+## Special Thanks
 
-## Credits
-
-**Tungnon**#1337 (original guide redaction) \
-**Huubinhdang**#9005 and **Mickey**#9335 (providing feedback) \
-**Waran-Ess**#9801 (providing feedback, grammar checks, and web conversion)
+- **Huubinhdang\#9005,** **Mickey\#9335, Alg3br4\#1337 and Darkfluoz CoolGFan\#6880** for providing additional helpful feedback.
+- **Glitch\_\#6946** for compiling help guides in PBCF.
