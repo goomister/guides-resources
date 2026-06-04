@@ -1,5 +1,6 @@
 ---
 title: Crazed Tank
+weight: 2
 ---
 
 **Must-Have Units**

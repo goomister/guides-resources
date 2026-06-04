@@ -1,5 +1,6 @@
 ---
 title: Crazed Fish
+weight: 6
 ---
 
 **Must-Have Units**

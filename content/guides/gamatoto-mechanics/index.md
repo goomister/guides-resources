@@ -1,7 +1,6 @@
 ---
 title: Gamatoto Mechanics
 ---
-
 ## Key Results Summary
 
 - Expedition length doesn’t matter for item drops, except in Catseye Cave (and XP Harvest, Collab Areas) where shorter expeditions are better.

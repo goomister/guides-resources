@@ -1,5 +1,6 @@
 ---
 title: Crazed Bird
+weight: 7
 ---
 
 **Must-Have Units**

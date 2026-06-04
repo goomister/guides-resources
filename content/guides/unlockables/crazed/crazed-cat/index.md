@@ -1,5 +1,6 @@
 ---
 title: Crazed Cat
+weight: 1
 ---
 
 **Must-Have Units**

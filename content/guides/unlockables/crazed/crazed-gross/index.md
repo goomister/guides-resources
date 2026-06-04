@@ -1,5 +1,6 @@
 ---
 title: Crazed Gross
+weight: 4
 ---
 
 **Must-Have Units**

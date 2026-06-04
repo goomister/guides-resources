@@ -1,5 +1,6 @@
 ---
 title: Crazed Lizard
+weight: 8
 ---
 
 **Must-Have Units**

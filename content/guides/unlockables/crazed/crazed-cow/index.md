@@ -1,5 +1,6 @@
 ---
 title: Crazed Cow
+weight: 5
 ---
 
 **Must-Have Units**

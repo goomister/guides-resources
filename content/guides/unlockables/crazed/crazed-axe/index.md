@@ -1,5 +1,6 @@
 ---
 title: Crazed Axe
+weight: 3
 ---
 
 **Must-Have Units**

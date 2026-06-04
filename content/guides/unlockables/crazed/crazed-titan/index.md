@@ -1,5 +1,6 @@
 ---
 title: Crazed Titan
+weight: 9
 ---
 
 **Must-Have Units**
