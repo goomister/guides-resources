@@ -2,7 +2,7 @@
 title: Progress Outline
 ---
 
-This page has a (very rough) division of the game’s progression phases.
+This page has (very rough) divisions of the game’s progression phases.
 
 > Note that all players will experience the game differently due to gacha RNG; do not expect this to apply equally to everyone. This guide is based on the rough difficulty of stages assuming you do not have any broken Ubers and play under normal conditions. If you use any kind of exploits or own Fest exclusives, these phases will apply to you very differently.
 
