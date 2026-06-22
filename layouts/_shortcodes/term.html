@@ -1,0 +1,10 @@
+{{- $entry := (.Get 0 | lower) -}}
+{{- range $.Site.Data.glossary -}}
+{{- range .items -}}
+{{- if eq  ( .term | lower) $entry -}}
+<a href="{{- $.Site.BaseURL -}}guides/terminology/#{{- .term | urlize -}}">{{- .term -}}</a>
+{{- else if eq  ( .abbr | lower) $entry -}}
+<abbr title="{{- .term -}}"><a href="{{- $.Site.BaseURL -}}guides/terminology/#{{- .term | urlize -}}">{{- .abbr -}}</a></abbr>
+{{- end -}}
+{{- end -}}
+{{- end -}}

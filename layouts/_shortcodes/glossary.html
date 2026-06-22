@@ -1,0 +1,13 @@
+{{ range .Site.Data.glossary }}
+## {{ .category }}
+
+{{ range .items }}
+
+### {{ .term  }}
+
+{{ .definition | page.RenderString }}
+
+{{ with .aka }}**also known as:** {{ delimit . ", " }}</p> {{ end }}
+
+{{ end }}
+{{ end }}

@@ -1,0 +1,288 @@
+- category: General
+  items:
+    - term: Meatshield
+      definition: A cat unit that is meant to hinder enemy progression through spammability (ex. Macho and Wall Cat)
+      aka: [ms]
+
+    - term: Peon
+      definition: Refers to weak enemies such as Snache and Those Guys, but can also be used to refer to stronger, non-boss enemies, such as Angelic Gory or Shadow Boxer K.
+
+    - term: Gacha Unit
+      definition: A unit that is obtained from a Rare Cat Capsule.
+
+    - term: Plus Level
+      definition: The number of gacha duplicates that have been used on a cat.
+      aka: [+ level]
+
+    - term: Hypermaxing
+      definition: Raising a cat unit to level 40 through the use of catseyes.
+
+    - term: Ultramaxing
+      definition: Raising a cat unit to level 50 through the use of catseyes.
+
+    - term: Boosting
+      definition: Raising a cat unit to a very high level through the use of plus levels. Often used interchangeably with hyper-/ultra-maxing
+
+    - term: Advent
+      definition: A stage of Deadly difficulty where the player must fight a unique boss to obtain a Rare/Super Rare unit, called advent drop or advent cat. Examples include Realm of Carnage, No Plan A and Parade of the Dead.
+
+- category: Rarities
+  items:
+    - term: N
+      definition: Normal
+    - term: R
+      definition: Rare
+    - term: SR
+      definition: Super Rare
+    - term: UR
+      definition: Uber Super Rare
+    - term: LR
+      definition: Legend Rare
+
+- category: Chapters
+  items:
+    - term: Into The Future
+      definition: Alien Stages
+      abbr: ItF
+
+    - term: Empire of Cats
+      definition: The first set of chapters
+      abbr: EoC
+
+    - term: Cats of the Cosmos
+      definition: Starred aliens be here
+      abbr: CotC
+
+- category: Units
+  items:
+    - term: Distance Unit
+      definition: Distance on the battlefield.
+      abbr: DU
+      aka: [pixels (misleading), range units]
+
+    - term: Hit Points
+      definition: Self explanatory. Every entity on the battlefield has hit points and dies when 0 is reached. When one of the bases reaches 0 HP, you either lose or win and the stage is over.
+      abbr: HP
+
+    - term: Frame
+      definition: 1/30th of a second. Battle Cats runs at 30 frames per second, also referred to as 30 fps. This is the smallest time interval possible, and is used when referring to precise timings, such as unit or enemy attack animations.
+
+- category: Basic Stats
+  items:
+    - term: Movement Speed
+      definition: Movement speed towards the opposing base when unobstructed in $2\ DU / f$. Can be 0 in some rare cases.
+
+    - term: Damage
+      definition: HP taken from the target on a given attack occurrence.
+
+    - term: Single Target
+      definition: Mutually exclusive to Area Attack, the unit only hits the closest enemy in range when attacking.
+
+    - term: Area Target
+      definition: Mutually exclusive to Single Target, the unit hits every enemy in range when attacking.
+
+    - term: Trait
+      definition: A (usually visually represented) trait of an enemy that can give them certain abilities and makes them vulnerable to trait-targeting abilities. Reserved ONLY to enemies, cat units cannot have traits. Aliens are a common trait seen in {{< term ItF >}}
+      aka: [color, type]
+
+    - term: Ability
+      definition: Any extra effect that activates when a unit deals or receives damage. Refer to the [abilities section](#abilities) for examples.
+
+    - term: Status Effect
+      definition: Temporary effects applied to an enemy by a unit's active abilities.
+      aka: [proc (programmed random occurrence)]
+
+    - term: Crowd Control
+      definition: Units that inflict a status effect
+      abbr: cc
+
+    - term: Damage Knockback (Hitback)
+      definition: Large backwards [displacement](#displacement) over 345 DU lasting 11f that occurs when a unit takes a specified threshold of damage. Temporarily grants invincibility and removes the unit from the battlefield, allowing fast units to run past it. Every unit has a number greater or equal to 1, 1 being the minimum as every unit gets knocked back upon death. Their distribution is linear, meaning that every KB occurs at the same interval (5,000 HP and 5 KBs results in 1 KB every 1,000 damage taken)
+
+    - term: Endurance
+      definition: Damage taken by a specific unit at a specific level before KB occurs (5,000 HP and 5 KB results in 1,000 Endurance)
+      aka: [resillience, knockback resistance]
+
+    - term: Standing Range
+      definition: The distance in DU towards an enemy at which a unit stops moving and starts attacking .
+      aka: [range]
+
+    - term: Damage Per Second
+      definition: The average damage per second a unit deals against a stationary enemy when uninterrupted. Calculated using $BaseDamage / (AttackFrequency / 30)$
+      abbr: DPS
+
+- category: Advanced Stats
+  items:
+    - term: Base Damage
+      definition: The damage the unit deals on a given attack hit without [abilities](#abilities).
+      aka: [raw damage]
+
+    - term: Base HP
+      definition: The HP of a given unit against any enemy, ignoring abilities.
+
+    - term: Effective Damage
+      definition: Damage against a specified target with respect to active abilities.
+
+    - term: Effective HP
+      definition: HP against a specified target with respect to passive abilities.
+
+    - term: Effective DPS
+      definition: DPS with respect to abilities. Effective DPS can be influenced by Trait targeting abilities (e.g. Massive Damage, Strong Against, etc.) or general abilities (e.g. Critical Hit, Savage Blow, Wave, Surge). Effective DPS can also be influenced by accuracy (amount of attacks that actually hit their target), although accuracy can only be estimated and never reliably measured.
+
+- category: Range
+  items:
+    - term: Long Distance
+      definition: Units with this ability can attack farther than their [standing range](#standing-range) (with some exceptions), but have a [blind spot](#blind-spot) in their range to compensate. For a more thorough explanation of the LD mechanic (as well as omni-strike), see this [video](https://youtu.be/Z-osLFU6G58).
+      abbr: LD
+      aka: [Long Range]
+      related: [Piercing Range, Inner Range]
+
+    - term: Omni-Strike
+      definition: Units with this ability can hit enemies behind them as well as in front. Sometimes it also comes with piercing range, in which case it essentially functions as Long Range without the blind spot.
+
+    - term: Maximum Range
+      definition: Maximum distance at which an attack can hit. Usually equal to standing range. If a unit has LD or Omni-strike this often exceeds standing range (e.g. Aphrodite, Cat God), but is never lower (e.g. Hacker Cat, Ragnarok). Not to be confused with [piercing range](#piercing-range)
+      aka: [Reach]
+
+    - term: Minimum Range
+      definition: Minimum distance at which an attack can hit. Usually -320, accounting for the hitbox of the unit. If the unit has LD, it can be above that (in some cases above even the standing range, e.g. Golfer Cat) creating a blind spot. If the unit has Omni-strike, it is usually (but not always) lower than -320, hitting behind it. # todo - update link on "but not always"
+      related: [Inner Range]
+
+    - term: Blind Spot
+      definition: Area which an LD unit cannot hit with its regular attack.
+
+    - term: Base Targeting Range
+      definition: The distance at which a unit stops to attack the enemy base. Usually this is equal to [Standing Range](#standing-range). For LD units, this is equal to [minimum range](#minimum-range), for [Omni-strike](#omni-strike) Units, this is equal to [maximum range](#maximum-range).
+
+    - term: Piercing Range
+      definition: How far ahead of itself a unit can hit relative to its [standing range](#standing-range). Can exceed the standing range (Aphro) or be equal / zero (Hacker) but is never less. It is obtained by subtracting the unit’s standing range from its [maximum reach](#maximum-reach). Here’s an example--Radiant Aphrodite has a standing range of 600, and hits enemy units in range 450~850 in front of her, meaning she has a piercing range of 250 (850 – 600) and an [Inner Range](#inner-range) of 150 (600 – 450).
+      disambiguate: [Piercing Attack]
+
+    - term: Inner Range
+      definition: How close to itself an LD unit can hit enemies (can be zero, or lower, like golfer). It is obtained by subtracting the unit’s minimum reach from its standing range. See the above explanation for an example.
+      related: [Piercing Range, Long Range, Minimum Range]
+
+    - term: Piercing Attack
+      definition: Used to refer to units that can hit farther than their standing range, through the use of either Long Range attacks, Omni-strike, Wave attacks, or Surge attacks.
+      disambiguate: [Piercing Range]
+
+    - term: Stepping Stone
+      definition: A frontline enemy that is used as a target by cat units with piercing attack to allow them to hit the enemy backline.
+
+    - term: Frontline
+      definition: Enemies/Cats that are at the front of the battle.
+
+    - term: Backline
+      definition: Enemies that have a high standing range and stay behind the frontline; usually used to punish the player should they push the enemy frontline too far back. The term Backliner is also commonly used to refer to these enemies, and also more rarely used to refer to cat units that have a high standing range.
+
+- category: Attack Timing
+  items:
+    - term: Foreswing
+      definition: Animation of an attack before the hit occurs. Can be instant (e.g. Maglev Cat) or extremely long (e.g. Crazed Bahamut, Enemy Filibuster). If the foreswing animation is interrupted by means of [displacement](#displacement), the unit will start its foreswing again as soon as it finds a target within range.
+
+    - term: Backswing
+      definition: The part of the animation that comes after the hit. Can be very short or extremely long (e.g. Awakened Bahamut, Bullet Train, Green Shell). Note that while this is sometimes referred to as "rebound", the word rebound itself is also used to designate something else, that being a full-backswing unit (such as Maglev or Yukimura) being interrupted during its backswing and attacking again immediately.
+
+    - term: Attack Cooldown
+      definition: Time between finishing a foreswing animation (= landing an attack) and starting the next one. Immediately starts counting down after an attack lands and stops the unit from attacking until finished. Allows for walking towards the enemies should they get pushed back, otherwise, the unit will display an idle animation. If the unit’s backswing is longer than the attack cooldown, the unit will immediately start attacking again after the backswing finishes. If the backswing is interrupted and the attack cd is close to 0f, the unit can attack much faster than its attack frequency (e.g. A.Bahamut vs Sleipnir) possibly leading to drastically increased DPS. Does not ever stop counting down even while the unit is [displaced](#displacement) or [frozen](#freeze).
+      disambiguate: [TBA]
+
+    - term: Attack Frequency
+      definition: Time between the frame on which the attack occurs and the frame on which the next attack occurs. Used to calculate theoretical [DPS](#dps).
+      aka: [Attack Interval]
+
+- category: Advanced Mechanics
+  items:
+    - term: Clipping
+      definition: Units moving into enemy units because they are currently being [displaced](#displacement). Can be beneficial or devastating depending on the situation. Often happens without consequences with slow units, e.g. Meatshields after using the cat cannon walking a bit into the enemy. Fast units can however cover large distances in a short time and sometimes intentionally or unintentionally completely pass some units and end up behind them.
+
+    - term: Speed Clipping
+      definition: Units moving up a tiny distance farther than they should because of the way movement speed is calculated. Is more noticeable on fast units, as they cover larger intervals of distance in one frame, and only detect collisions after moving, enabling them to clip up to half their movement speed into the enemy in DU. Can cause odd interactions between units with very similar but not equal ranges hitting each other when they shouldn't in theory, e.g. Li’l Nyandam and Camelle Variants.
+
+    - term: Boss
+      definition: Bosses are enemy units that cause a boss knockback when leaving the enemy base and cannot be moved behind the enemy base by any means. They can, however, spawn far back enough for non-[piercing](#piercing-range) units to hit the base so long as the boss never has the chance to move ahead on the field.
+
+    - term: Boss Knockback
+      definition: Very large backwards displacement stretching over 47f that occurs one frame after a stage boss is spawned, affecting every cat unit currently on the battlefield, and as such ignores units currently being displaced by any means. # todo: add distance of KB
+      aka: [Boss Wave]
+
+    - term: Displacement
+      definition: Any form of movement that isn't caused by a unit’s regular forward movement. Removes the unit’s hitbox from the battlefield over its duration, making it unhittable and invincible, excluding Holy Blast against burrowed Zombies. Also disables targeting it, allowing units to walk past it. Includes any form of knockback, warp, and burrow. Displacement resets the animation state of the targeted unit to a displacement animation; either warp, underground or knocked back, resulting in interruption of any attack animations that may have been active (foreswing and backswing).
+
+    - term: Flinch
+      definition: Very short displacement spanning over 11f caused by the sniper cat powerup. Can be timed by toggling sniper at the right moment, as it shoots once every ~10 seconds provided it has a target other than the enemy base. The normal cat cannon also inflicts this type of knockback. # todo: add sniper KB distance
+      aka: [Cannon Knockback, Sniper Knockback]
+
+- category: Abilities
+  items:
+    - term: Uptime
+      definition: The duration of a unit’s [status effect](#status-effect) ability relative to its attack rate. For example, if a unit attacks every 10 seconds and slows enemies for 5 seconds, its ability uptime is 50%.
+    - term: Massive Damage
+      definition: Deals 3× ~ 4× damage against the [target enemy type](#trait), depending on treasures. Treasures don't exist for White, Relic and all event traits. Exclusive to cat units.
+    - term: Insane Damage
+      definition: Deals 5× ~ 6× damage against the target enemy type, depending on treasures. Treasures don't exist for White, Relic and all event traits. Exclusive to cat units.
+    - term: Strong Against
+      definition: Takes 0.5× ~ 0.4× damage and deals 1.5× ~ 1.8× damage against the target trait, depending on treasures. Treasures don't exist for White, Relic and all event traits. Exclusive to cat units.
+    - term: Resistant
+      definition: Takes 1/4th or 1/5th damage from target type depending on treasures. Treasures don't exist for White, Relic and all event traits. Exclusive to cat units.
+    - term: Insanely Tough
+      definition: Takes 1/6th or 1/7th damage from target type depending on treasures. Treasures don't exist for White, Relic and all event traits. Exclusive to cat units.
+    - term: Slow
+      definition: Reduces an enemy's movement speed to 0.5 for a specified amount of time.
+    - term: Freeze
+      definition: Stops any animation the enemy is currently in for a specified amount of time.
+    - term: Weaken
+      definition: Reduces the affected unit’s damage by a specified percentage for a specified amount of time.
+    - term: Strengthen
+      definition: Increases the unit’s damage by a specified amount after going below a specified HP threshold percentage.
+    - term: Knockback
+      definition: a [Displacement](#displacement) that moves the enemy back over 12f. # todo - add distance here
+    - term: Critical hit
+      definition: Deals double damage. Stacks with other abilities. Deals full 2× damage against Metal, instead of the usual 1 point of damage.
+    - term: Attack Only
+      definition: Only attacks and hits the target trait and enemy bases, but does not walk past other enemies. Exclusive to cat units. Should the unit's trait targeting be taken away by means of [curse](#curse), it will only attack bases until the curse runs out.
+      aka: [target only]
+    - term: Base Destroyer
+      definition: Deals 4× damage vs bases.
+    - term: Metal
+      definition: Takes only 1 damage from every attack except [critical hits](#critical-hit). All enemy units with the metal trait have this ability.
+    - term: Burrow
+      definition: "An ability exclusive to (some) zombies. Once they encounter a cat unit in their standing range, they will disappear underground and resurface after advancing a given distance (which is different for every zombie enemy). Some zombie enemies can burrow more than once. \n\n Burrowing can be interrupted if the zombie is knocked back during its pre-burrowing animation."
+    - term: Revive
+      definition: An ability exclusive to (almost) all zombies. Once these enemies lose all their health, they leave a corpse behind and revive with a certain percentage of their original HP after a given duration (those two numbers are different for every zombie enemy). Zombie enemies can revive either once or infinitely.
+    - term: Zombie Killer
+      definition: "Units with this ability prevent zombie enemies from reviving. The ability only activates when they land the last hit. If another unit that doesn’t have the ability lands the final blow on a zombie on the same frame as a zombie killer hits it, the ability will still apply. \n\n This ability is passive, and therefore guaranteed to activate on every hit."
+      aka: [Zombie Kill, ZKill]
+    - term: Barrier
+      definition: "An ability that is exclusive to enemies, commonly found in Starred Aliens. \n\n Barriers have a predetermined breaking point: as soon as a cat unit deals damage in a single hit that meets or exceeds this breaking point, the barrier disappears and does not regenerate. The hit that destroys the barrier does not deal additional damage to the enemy. Any damage lower than the breaking point is absorbed and does not count toward the total damage needed. \n\n An enemy with an active barrier cannot be afflicted with status effects. Other abilities can still apply, including trait-specific damage multipliers."
+    - term: Barrier Breaker
+      definition: "Units with this ability can break enemy barriers without needing to exceed their breaking point. If the ability triggers on a barrier, the barrier itself is ignored and the full damage of the attack is dealt to the enemy. \n\n  This ability is chance-based."
+    - term: Warp
+      definition: An ability exclusive to enemies. Cat units hit by it will be sent forwards or backwards by a specified range for a specified amount of time, depending on the enemy. If a cat unit is [knocked back](#damage-knockback) by the damage from the warping attack, it will not be warped.
+    - term: Curse
+      definition: An ability formerly exclusive to enemies, commonly found in Relics. This effect nullifies all abilities that target specific enemy traits. Non-targeting abilities are not disabled. # todo - add targeting abilities
+    - term: Double Cash
+      definition: Grants double the money reward upon killing an enemy (has to be the killing blow). Exclusive to cat units for obvious reasons.
+      aka: [bounty, double bounty]
+    - term: Survive
+      definition: Instead of dying when reaching 0 HP, units with this ability regain 1 HP and reposition with a [hitback](#damage-knockback) once.
+      aka: [Survive Lethal Strike]
+    - term: Savage Blow
+      definition: Increases damage by a specified multiplier on activation. Although this multiplier can technically be anything, every savage blow unit so far uses a 3× multiplier.
+    - term: Immunity
+      definition: Immunity to a specified active ability. Does not exist for damage multipliers.
+    - term: Resistance
+      definition: Reduces the effects of enemy abilities by a specified percentage. Does not exist for damage multipliers.
+    - term: Wave Blocker
+      definition: Interrupts any wave chains passing the unit’s hitbox and negates the damage from the wave that hits it. Does not negate the damage from the attack that created the wave.
+    - term: Wave
+      definition: Ability triggered on a successful hit with a given proc chance and a given level. Each individual wave deals damage and applies effects in an area. For cat units, the first wave starts at 332.5 DU away from the caster, for enemy units at 466.5 DU. Every wave level past level 1 adds another wave instance of 200 DU to the end of the last one, extending the progression. The waves don't all appear simultaneously, but spawn 4f apart. The first wave spawns 3f after the attack hits. The damage is not instant, but applies after 8f. A wave can transport other abilities as well (copying the result of the original attack instead of rerolling the chances for each individual wave). Wave immune units ignore both damage and procs from the wave, but not the attack that triggered it. Wave chains can be interrupted by units with the wave blocker ability, who negate and ignore the damage and effect of the wave level that hits them and every wave in the chain that would follow, for every allied unit.
+      aka: [Shockwave]
+    - term: Mini Wave
+      definition: Identical to the wave ability, but deals 20% of the original attack's damage and has a different animation.
+    - term: Surge
+      definition: Ability triggered on a successful hit with a given proc chance and a given level. Each individual surge deals damage and applies effects in an area, both repeating a given number of times determined by the surge's level. Surge has 375 DU width, with 125 DU being piercing range and 250 DU being inner range, with the Surge's spawn point as reference. The surge's spawn point is chosen randomly from its spawning area, which is handled similarly to LD, having both a minimum range and a maximum range which limits it. The surge spawns after 15f of the attack hitting, lingering an extra 20f for each surge level. Surge can transport other ability procs as well (copying the result of the original attack instead of rerolling the chances for each individual surge level). Surge immune units ignore both damage and procs from the surge, but not the attack that triggered it.
+    - term: Suicide
+      definition: Units with this ability disappear after attacking once. If the [foreswing](#foreswing) is interrupted the unit will survive and attack again, if the [backswing](#backswing) is interrupted it will disappear after the displacement.
+    - term: Multi-Hit
+      definition: "Units with this ability will attack multiple times in one animation. This implies that there are animation phases in between foreswing and backswing. Timings can be vastly different. If the animation is interrupted by displacement before the last hit lands, in other words before the backswing starts, attack cooldown will not start and the attack animation will start from the beginning, repeating every hit. Every individual hit is independent, meaning it can have its own damage value (e.g. Awakened Bahamut with 3 attacks: 85,000, 3,400, 5,100) and abilities (e.g. Crazed Moneko, only last hit crits). The maximum number of multihits is 3. \n\n For more details on multi-hit timings, refer to [this](../attack-timings#multihit)."
