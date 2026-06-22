@@ -5,7 +5,7 @@
 
 ### {{ .term  }}
 
-{{ .definition | page.RenderString }}
+{{ .definition | .Page.RenderString }}
 
 {{ with .aka }}**also known as:** {{ delimit . ", " }}</p> {{ end }}
 
