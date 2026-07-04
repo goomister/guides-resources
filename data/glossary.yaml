@@ -242,6 +242,8 @@
     - term: Attack Only
       definition: Only attacks and hits the target trait and enemy bases, but does not walk past other enemies. Exclusive to cat units. Should the unit's trait targeting be taken away by means of [curse](#curse), it will only attack bases until the curse runs out.
       aka: [target only]
+    - term: Dodge
+      definition: "Units and enemies with this ability have a chance to trigger the Dodge effect, which reduces all damage taken to zero. Dodge triggers before the triggering attack does damage, and sustains for a fixed duration from then on.\n\nFor cats Dodge is only triggered by attacks from enemies of their target traits, and cannot trigger while cursed. For enemies Dodge can be triggered by any attack dealt to them"
     - term: Base Destroyer
       definition: Deals 4× damage vs bases.
     - term: Metal
@@ -256,11 +258,16 @@
     - term: Barrier
       definition: "An ability that is exclusive to enemies, commonly found in Starred Aliens. \n\n Barriers have a predetermined breaking point: as soon as a cat unit deals damage in a single hit that meets or exceeds this breaking point, the barrier disappears and does not regenerate. The hit that destroys the barrier does not deal additional damage to the enemy. Any damage lower than the breaking point is absorbed and does not count toward the total damage needed. \n\n An enemy with an active barrier cannot be afflicted with status effects. Other abilities can still apply, including trait-specific damage multipliers."
     - term: Barrier Breaker
-      definition: "Units with this ability can break enemy barriers without needing to exceed their breaking point. If the ability triggers on a barrier, the barrier itself is ignored and the full damage of the attack is dealt to the enemy. \n\n  This ability is chance-based."
+      definition: "Units with this ability can break enemy barriers without needing to exceed their breaking point. If the ability triggers on a barrier, the barrier itself is ignored and the full damage of the attack is dealt to the enemy. \n\n  This may or may not be guaranteed to trigger for a unit."
     - term: Warp
       definition: An ability exclusive to enemies. Cat units hit by it will be sent forwards or backwards by a specified range for a specified amount of time, depending on the enemy. If a cat unit is [knocked back](#damage-knockback) by the damage from the warping attack, it will not be warped.
     - term: Curse
       definition: An ability formerly exclusive to enemies, commonly found in Relics. This effect nullifies all abilities that target specific enemy traits. Non-targeting abilities are not disabled. # todo - add targeting abilities
+    - term: Shield
+      definition: "An ability that is exclusive to enemies, commonly found in Aku enemies. Shields have a defined amount of HP: whenever that amount of damage is done to the shield (over one or multiple hits), the shield breaks. The hit that destroys the shield does not deal additional damage to the enemy. Any damage lower than the breaking point is absorbed by the shield. \n\nUnlike barrier, shield resets when the enemy is knocked back; either by full or by a percentage of the original shield HP. \n\n An enemy with an active shield cannot be afflicted with status effects. Other abilities can still apply, including trait-specific damage multipliers."
+    - term: Shield Breaker
+      definition: "Units with this ability can break enemy shields without needing to exceed their breaking point. If the ability triggers on a shield, the shield itself is ignored and the full damage of the attack is dealt to the enemy. \n\n  This may or may not be guaranteed to trigger for a unit."
+      aka: [Shield Pierce]
     - term: Double Cash
       definition: Grants double the money reward upon killing an enemy (has to be the killing blow). Exclusive to cat units for obvious reasons.
       aka: [bounty, double bounty]
@@ -280,7 +287,7 @@
       aka: [Shockwave]
     - term: Mini Wave
       definition: Identical to the wave ability, but deals 20% of the original attack's damage and has a different animation.
-    - term: Surge
+    - term: Surge # TODO - cover explosion
       definition: Ability triggered on a successful hit with a given proc chance and a given level. Each individual surge deals damage and applies effects in an area, both repeating a given number of times determined by the surge's level. Surge has 375 DU width, with 125 DU being piercing range and 250 DU being inner range, with the Surge's spawn point as reference. The surge's spawn point is chosen randomly from its spawning area, which is handled similarly to LD, having both a minimum range and a maximum range which limits it. The surge spawns after 15f of the attack hitting, lingering an extra 20f for each surge level. Surge can transport other ability procs as well (copying the result of the original attack instead of rerolling the chances for each individual surge level). Surge immune units ignore both damage and procs from the surge, but not the attack that triggered it.
     - term: Suicide
       definition: Units with this ability disappear after attacking once. If the [foreswing](#foreswing) is interrupted the unit will survive and attack again, if the [backswing](#backswing) is interrupted it will disappear after the displacement.
