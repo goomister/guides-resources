@@ -9,5 +9,9 @@
 
 {{ with .aka }}**also known as:** {{ delimit . ", " }}</p> {{ end }}
 
+{{ with .disambiguate }}**not to be confused with:** {{ range . }} {{ printf "[%s](#%s) " . (. | urls.URLize) | $.Page.RenderString }}  {{ end }}</p> {{ end }}
+
+{{ with .related }}**see also:** {{ range . }} {{ printf "[%s](#%s) " . (. | urls.URLize) | $.Page.RenderString }}  {{ end }}</p> {{ end }}
+
 {{ end }}
 {{ end }}

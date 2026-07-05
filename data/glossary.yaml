@@ -141,8 +141,9 @@
       definition: Units with this ability can hit enemies behind them as well as in front. Sometimes it also comes with piercing range, in which case it essentially functions as Long Range without the blind spot.
 
     - term: Maximum Range
-      definition: Maximum distance at which an attack can hit. Usually equal to standing range. If a unit has LD or Omni-strike this often exceeds standing range (e.g. Aphrodite, Cat God), but is never lower (e.g. Hacker Cat, Ragnarok). Not to be confused with [piercing range](#piercing-range)
+      definition: Maximum distance at which an attack can hit. Usually equal to standing range. If a unit has LD or Omni-strike this often exceeds standing range (e.g. Aphrodite, Cat God), but is never lower (e.g. Hacker Cat, Ragnarok). Not to be confused with
       aka: [Reach]
+      disambiguate: [Piercing Range]
 
     - term: Minimum Range
       definition: Minimum distance at which an attack can hit. Usually -320, accounting for the hitbox of the unit. If the unit has LD, it can be above that (in some cases above even the standing range, e.g. Golfer Cat) creating a blind spot. If the unit has Omni-strike, it is usually (but not always) lower than -320, hitting behind it. # todo - update link on "but not always"
