@@ -9,9 +9,9 @@ title: Cats of the Cosmos + Mid SoL guide
 - If you're confused by any terminology or acronyms here, remember to refer to the [terminologies](../terminology/index.md) guide on this website.
 - While this guide provides multiple in-game tips and pieces of advice, it does not go in depth on game mechanics.
 
-Assuming you have just finished ItF Chapter 1, you may have seen a new section of stages called "Cats of the Cosmos" (CotC for short). You may have even tried the first or second levels within it. If you have, you will see Alien enemies with stars on them. These enemies are called Starred Aliens. 
+Assuming you have just finished ItF Chapter 1, you may have seen a new section of stages called "Cats of the Cosmos" (CotC for short). You may have even tried the first or second levels within it. If you have, you will see Alien enemies with stars on them. These enemies are called Starred Aliens.
 
-While Starred Aliens are still Alien enemies, meaning any unit that targets Alien will affect both regular and Starred Aliens, Starred Aliens are unique in the fact that they are not affected by the ItF Crystals. Whereas Alien enemies had a default 700% magnification buff, which decreased as you obtained anti-Alien Crystals, Starred Aliens have a whopping 1600% magnification buff, which also decreases as you obtain anti-Starred Alien Crystals. 
+While Starred Aliens are still Alien enemies, meaning any unit that targets Alien will affect both regular and Starred Aliens, Starred Aliens are unique in the fact that they are not affected by the ItF Crystals. Whereas Alien enemies had a default 700% magnification buff, which decreased as you obtained anti-Alien Crystals, Starred Aliens have a whopping 1600% magnification buff, which also decreases as you obtain anti-Starred Alien Crystals.
 
 Since CotC will commonly feature other Traited enemies such as Red, Floating, Dark, Angel, Metal, and regular Aliens, you should only try doing CotC once you have beaten ItF 3. You should also try to progress up to SoL 18 and unlock Ururun if you haven't done so already.
 
@@ -19,13 +19,13 @@ Since CotC will commonly feature other Traited enemies such as Red, Floating, Da
 
 Yes, CotC has different treasures from ItF and EoC chapters. Yes, you do need to get all of them.
 
-CotC's Treasure set is similar to ItF's. The main notable difference is that there are now five sets of Crystal Treasures per chapter compared to ItF's two, so try to grind all of them as soon as possible. Other than that, ItF has three new Fruits: Titanium Fruit (for Metals), Antimatter Fruit (for Zombies), and the Enigma Fruit (for Aliens). 
+CotC's Treasure set is similar to ItF's. The main notable difference is that there are now five sets of Crystal Treasures per chapter compared to ItF's two, so try to grind all of them as soon as possible. Other than that, ItF has three new Fruits: Titanium Fruit (for Metals), Antimatter Fruit (for Zombies), and the Enigma Fruit (for Aliens).
 
 Remember that since Starred Aliens are still Aliens, getting the Enigma Fruit will also help you when fighting Starred Aliens. The effects of the Fruit Treasures are the same as in the table within the ItF guide.
 
 The anti-Starred Alien Crystals follow the same rules as the ItF Crystals, so there's not going to be much elaborating on them here.
 
-Another thing to note about the Treasures in CotC is the existence of the Mystery Mask. This Mystery Mask is like a super Crystal, but only for the final boss of each CotC chapter, a variation of Cat God himself. Like Starred Aliens, the Cat God(s) have a default magnification boost, in this case 1100%. 
+Another thing to note about the Treasures in CotC is the existence of the Mystery Mask. This Mystery Mask is like a super Crystal, but only for the final boss of each CotC chapter, a variation of Cat God himself. Like Starred Aliens, the Cat God(s) have a default magnification boost, in this case 1100%.
 
 You have to max out the Mystery Mask and get it to be Superior, or else each God receives stat boosts giving them incredibly high health and damage, which then makes the final stage of each chapter extremely difficult and tedious to fight.
 
@@ -100,7 +100,7 @@ CotC Outbreaks are also a thing. They are also really difficult. Just postpone t
 
 ## When should I start CotC?
 
-While early CotC can be done fresh out of ItF 3, actually completing all of CotC can be a different story. You want to at least have the high priority True Forms and Talents for your gacha units down, as well as units like Crazed Moneko or other good Special cats for the only Special Restriction stages. 
+While early CotC can be done fresh out of ItF 3, actually completing all of CotC can be a different story. You want to at least have the high priority True Forms and Talents for your gacha units down, as well as units like Crazed Moneko or other good Special cats for the only Special Restriction stages.
 
 Especially for Special Only stages, you'll want to try and pick up some of the True Forms of the purchasable Special Cats through their Awakening stages. CotC 3 is balanced around level 40 units as well, so you will want to get Catseyes and start boosting your key units/Ubers.
 
@@ -143,15 +143,15 @@ There are five Mythics you can obtain from doing SoL: Ururun, Li'l Nyandam, Mina
 
 By the time you do CotC, you should have or should be thinking about obtaining the True Forms of your Crazed Cats. They're all balanced around True Forms of gacha units and Ururun, and for some of them you might want to consider Talents as well. Here's a quick summary of each stage.
 
-* **Manic Mohawk (Deathhawk)**: Similar to the Crazed Cat stage, but now has a Master A as well as stronger peons. Try to get Cyberpunk Cat for this one. Methods of LD like Mina, Housewife Cat, and Medalist are also invaluable to hit the Master A reliably.
-* **Manic Eraser (Vulcanizer)**: Endurance stage, again. Have five meatshields for this stage, as well as Cyberpunk and Ururun. Spammable midrangers like Luxury Bath, Pizza, or the Dragons also help a ton here. Again, it's not extremely difficult, but the amount of health on Manic Eraser will take a while to whittle down.
-* **Manic Dark (Unjust War)**: By far the hardest Manic stage. Manic Dark's Freeze is much stronger this time, and there's still hordes of dangerous Red enemies including a Nyandam in the back and a J.K. Bun Bun which is extremely dangerous. Do this one last.
-* **Manic Macho Legs (Muscle Party)**: Octopus deletes this entire stage. If you don't have Octopus, stack up midrangers like Pizza and Courier and don't meatshield.
-* **Manic Lion (Lots o' Lion)**: Another DPS check. Units like Crazed Bird, Chill, and Pizza are invaluable here alongside meatshields. Fairly simple overall.
-* **Manic Flying (Forest Beasts)**: The supporting enemies this time are a lot more dangerous, and you will want strong CC for the Bores. Getting Can Can, iCat, or Seafarer are must-haves. Other than that, just kill the Bores quickly and you should be fine.
-* **Manic Island (Ogre Island)**: Fairly difficult, as you have to fight a Bersekory alongside waves of Manic Islands. Alongside spammable midrangers like Pizza or Cyborg for the Manic Island waves, you will want units for Bersekory like Courier or Octopus.
-* **Manic King Dragon (Draconian)**: Rushable with Awakened Bahamut.
-* **Manic Jamiera (Resident Feline)**: You'll definitely want Octopus for this stage, as Manic Jamiera's Waves occur more frequently. Other than that, just stack midrangers like Pizza and Manic King Dragon and get lucky.
+- **Manic Mohawk (Deathhawk)**: Similar to the Crazed Cat stage, but now has a Master A as well as stronger peons. Try to get Cyberpunk Cat for this one. Methods of LD like Mina, Housewife Cat, and Medalist are also invaluable to hit the Master A reliably.
+- **Manic Eraser (Vulcanizer)**: Endurance stage, again. Have five meatshields for this stage, as well as Cyberpunk and Ururun. Spammable midrangers like Luxury Bath, Pizza, or the Dragons also help a ton here. Again, it's not extremely difficult, but the amount of health on Manic Eraser will take a while to whittle down.
+- **Manic Dark (Unjust War)**: By far the hardest Manic stage. Manic Dark's Freeze is much stronger this time, and there's still hordes of dangerous Red enemies including a Nyandam in the back and a J.K. Bun Bun which is extremely dangerous. Do this one last.
+- **Manic Macho Legs (Muscle Party)**: Octopus deletes this entire stage. If you don't have Octopus, stack up midrangers like Pizza and Courier and don't meatshield.
+- **Manic Lion (Lots o' Lion)**: Another DPS check. Units like Crazed Bird, Chill, and Pizza are invaluable here alongside meatshields. Fairly simple overall.
+- **Manic Flying (Forest Beasts)**: The supporting enemies this time are a lot more dangerous, and you will want strong CC for the Bores. Getting Can Can, iCat, or Seafarer are must-haves. Other than that, just kill the Bores quickly and you should be fine.
+- **Manic Island (Ogre Island)**: Fairly difficult, as you have to fight a Bersekory alongside waves of Manic Islands. Alongside spammable midrangers like Pizza or Cyborg for the Manic Island waves, you will want units for Bersekory like Courier or Octopus.
+- **Manic King Dragon (Draconian)**: Rushable with Awakened Bahamut.
+- **Manic Jamiera (Resident Feline)**: You'll definitely want Octopus for this stage, as Manic Jamiera's Waves occur more frequently. Other than that, just stack midrangers like Pizza and Manic King Dragon and get lucky.
 
 In addition, Haniwa Cat from Empress's Excavation 1 also simplifies many of these stages due to its Resistant vs. Traitless. If you find yourself struggling on some of these, you can try getting Haniwa once you've already obtained Courier.
 
@@ -258,10 +258,10 @@ Still hungry for more help? Check the following section below.
 **[PC](https://www.youtube.com/channel/UC8H82xPYdwlSgsKq1xxWeDA)** \
 **[apg](https://www.youtube.com/channel/UCSab-gabyviLXKFc2Wt1EiA)** \
 **[Waran](https://www.youtube.com/channel/UCa-cgCixEojzsWvzWhtYbpQ)** \
-**[ee82](https://www.youtube.com/channel/UCBQGAk7rTAiroJ17nJo7hiw)** \
+**[ee82ee](https://www.youtube.com/channel/UCBQGAk7rTAiroJ17nJo7hiw)**\
 **[goomister29](https://www.youtube.com/@goomister29)**
 
 ### Credits
 
-**goomister29** (original guide creation)
+**goomister29** (original guide creation) \
 **draconacht** (proofreading)
